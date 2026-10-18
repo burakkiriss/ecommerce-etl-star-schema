@@ -1,0 +1,511 @@
+﻿order_id,order_date,customer_name,customer_email,customer_city,customer_segment,product_name,product_category,quantity,unit_price,total_amount,payment_method,shipping_city,order_status
+ORD-10382,2025-09-01,Refet Çamurcuoğlu,gtevetoglu@example.org,Mersin,Bireysel,Cilt Bakım Seti,Kozmetik,3,659.37,1978.11,Kredi Kartı,Mersin,İptal
+ORD-10480,2025-09-17,Badegül Şama,mucevherakca@example.net,Eskişehir,Bireysel,Ofis Sandalyesi,Ev & Yaşam,5,2060.16,10300.8,Havale/EFT,Eskişehir,Tamamlandı
+ORD-10076,2025-12-06,Çev. Sevla Çorlu Gül,lduran@example.com,Mersin,Kurumsal,Cilt Bakım Seti,Kozmetik,5,724.45,3622.25,Dijital Cüzdan,Mersin,Tamamlandı
+ORD-10417,2025-03-09,Tayyibe Mansız,odurdu@example.org, Bursa  ,Bireysel,Ofis Sandalyesi,Ev & Yaşam,5,1960.97,9804.85,Kapıda Ödeme,Bursa,Tamamlandı
+ORD-10420,22.12.2025,Öğr. Güverçin Manço Duran,vyuksel@example.net,Eskişehir,Bireysel,Çocuk Oyuncak Seti,Anne & Bebek,4,423.26,1693.04,Kapıda Ödeme,Eskişehir,Tamamlandı
+ORD-10353,2025-08-25,Vâlâ Demir,valaakgunduz@example.com,İstanbul,Bireysel,Ofis Sandalyesi,Ev & Yaşam,4,2235.11,8940.44,Dijital Cüzdan,İstanbul,Tamamlandı
+ORD-10024,2025-02-20,Misra Şahdiye Şener Akçay,akarsoykan@example.org,İstanbul,Kurumsal,Roman Seti (5 Kitap),Kitap & Kırtasiye,1,356.15,356.15,Havale/EFT,İstanbul,Tamamlandı
+ORD-10235,2025-07-05,Yrd. Doç. Kutgün Nurgil Durmuş,biltas90@example.org,ANKARA,Bireysel,Akıllı Saat,Elektronik,5,1566.84,7834.2,Havale/EFT,Ankara,Tamamlandı
+ORD-10190,2025-08-17,Abdülkerim Bilgin,kopan85@example.net,Bursa,Kurumsal,Cilt Bakım Seti,Kozmetik,iki,665.66,1331.32,,Bursa,İptal
+ORD-10384,2025-03-06,Av. Sayin Uğurkan Durdu,erbaybilir@example.net,İstanbul,Kurumsal,Laptop Standı,ELEKTRONIK,6,315.87,1895.22,Havale/EFT,İstanbul,Tamamlandı
+ORD-10428,2025-02-28,Yurtseven Soylu Korutürk,ilklimakisakurek@example.net,Konya,Kurumsal,Güneş Gözlüğü,Aksesuar,3,490.89,1872.71,Dijital Cüzdan,Konya,Tamamlandı
+ORD-10038,2025-12-20,Serezli Yılmaz,sanli85@example.com,İZMIR,Bireysel,Masaüstü Bilgisayar,Elektronik,5,18694.34,93471.7,Dijital Cüzdan,Antalya,Tamamlandı
+ORD-10460,2025-11-29,Ilgı Eraslan,arcan52@example.com,İstanbul,Bireysel,Masaüstü Bilgisayar,elektronik,4,17539.29,70157.16,Havale/EFT,İstanbul,Tamamlandı
+ORD-10451,2025-07-03,Şenkal Talayer Zengin Bilge,camurcuoglusahil@example.net,Gaziantep,Bireysel,Akıllı Telefon,Elektronik,6,26092.67,156556.02,Havale/EFT,Gaziantep,Tamamlandı
+ORD-10172,2025-05-27,Arş. Gör. Gülcegün Meryeme Şensoy Akdeniz,bilirihsan@example.net,Gaziantep,Bireysel,Cilt Bakım Seti,Kozmetik,4,736.61,2946.44,Kredi Kartı,Bursa,Tamamlandı
+ORD-10442,2025-11-21,Elöve Ergül,ferhan92@example.com,Eskişehir,Bireysel,Güneş Gözlüğü,AKSESUAR,4,474.58,1898.32,Havale/EFT,Eskişehir,Tamamlandı
+ORD-10044,2025-06-19,Oganer İnönü,ongay22@example.net,İstanbul,Bireysel,Kadın Elbise,Giyim,2,762.09,1524.18,Kapıda Ödeme,Mersin,Tamamlandı
+ORD-10085,2025-04-19,Çaltı Mishat Tarhan Yüksel,rarsoy@example.com,Antalya,Bireysel,Yoga Matı,Spor,2,261.73,523.46,Kredi Kartı,Antalya,Tamamlandı
+ORD-10219,2025-10-06,Dr. Gülselin Emal Yılmaz,durmusensari@example.net,Konya,Kurumsal,Masaüstü Bilgisayar,Elektronik,2,17724.67,35449.34,Kapıda Ödeme,Konya,Tamamlandı
+ORD-10257,2025-04-24,Nurgil Mümtaze Gül,akdenizesenturk@example.net,Samsun,Bireysel,Kablosuz Kulaklık,Elektronik,3,859.06,2577.18,Dijital Cüzdan,Samsun,Tamamlandı
+ORD-10320,2025-02-22,Nuyan Tarhan,halenursakarya@example.org,Ankara,Kurumsal,Masaüstü Bilgisayar,Elektronik,3,17157.38,51472.14,Havale/EFT,Ankara,Tamamlandı
+ORD-10124,2025-08-16,Günden Ünsever Şener Karadeniz,izel39@example.org,Bursa,Kurumsal,Bluetooth Hoparlör,Elektronik,6,623.02,5786.54,Kapıda Ödeme,Antalya,Tamamlandı
+ORD-10360,2025-07-18,Dr. Aybet Aybet Zengin Alemdar,vakcay@example.com,Adana,Bireysel,Yoga Matı,spor,2,285.18,570.36,Kapıda Ödeme,Adana,Tamamlandı
+ORD-10308,2025-01-31,Doç. Gülel Gülen,eyildirim@example.com,Mersin,Kurumsal,Bebek Arabası,Anne & Bebek,3,4281.36,12844.08,,Mersin,Tamamlandı
+ORD-10003,2025-04-12,Örik Çorlu,,Samsun,Kurumsal,Erkek Ceket,Giyim,4,1007.67,4030.68,Kredi Kartı,Samsun,Tamamlandı
+ORD-10061,2025-07-27,Nesip Zengin,alemdarsuayp@example.com,Samsun,Bireysel,Güneş Gözlüğü,Aksesuar,2,504.23 TL,1008.46,Kredi Kartı,Samsun,Tamamlandı
+ORD-10457,2025-11-17,Mukbile Durdu,cdurdu@example.net,Mersin,Kurumsal,Cilt Bakım Seti,Kozmetik,5,727.22,3636.1,Kredi Kartı,Mersin,Tamamlandı
+ORD-10197,2025-06-27,Özgün Rengül Alemdar,ulugbey35@example.com,,Kurumsal,Laptop Standı,Elektronik,3,300.56,901.68,Kapıda Ödeme,Antalya,Tamamlandı
+ORD-10014,2025-01-06,Okt. Sunay Özyurt Akgündüz Korutürk,ozalpsan22@example.com,Eskişehir,Bireysel,Bebek Arabası,Anne & Bebek,3,4425.62,13276.86,Kapıda Ödeme,Konya,Tamamlandı
+ORD-10159,2025-11-03,Gencaslan Çorlu,turkmulayim@example.net,İstanbul,Kurumsal,Laptop Standı,Elektronik,3,294.05,882.15,Dijital Cüzdan,İstanbul,Tamamlandı
+ORD-10072,2025-02-14,Yrd. Doç. Fatigül Kefser Korutürk,saricabaykaradeniz@example.com,Antalya,Kurumsal,Erkek Ceket,Giyim,4,1003.83,4015.32,Dijital Cüzdan,Antalya,Tamamlandı
+ORD-10347,2025-04-17,Nevsal Demir,eraslannural_at_example,Gaziantep,Kurumsal,Güneş Gözlüğü,aksesuar,3,492.43,1477.29,Kredi Kartı,Gaziantep,Tamamlandı
+ORD-10144,2025-08-09,Uz. Dürrüşehvar Cemiyle Gülen Arsoy,mehmetzahirturk@example.net,Ankara,Kurumsal,Ofis Sandalyesi,Ev & Yaşam,4,2111.31,8445.24,Kapıda Ödeme,Konya,İade
+ORD-10088,2025-11-28,Nura Akdeniz,bcamurcuoglu@example.com,İzmir,Kurumsal,Kahve Makinesi,Ev & Yaşam,1,1723.54,1723.54,Kapıda Ödeme,İzmir,Tamamlandı
+ORD-10400,13.12.2025,Dr. Adila Durmuş Mansız,xaksu@example.net,Kayseri,Kurumsal,Ofis Sandalyesi,Ev & Yaşam,1,1893.09,1893.09,Kapıda Ödeme,Kayseri,Tamamlandı
+ORD-10497,2025-11-29,Telim Şama,ertasakver@example.org,Konya,Kurumsal,Masaüstü Bilgisayar,Elektronik,1,19231.28,19231.28,Dijital Cüzdan,Konya,Tamamlandı
+ORD-10489,2025-07-05,Kutun Sezgin,almastfirat@example.net,Mersin,Bireysel,Erkek Ceket,Giyim,4,1051.61,4206.44,Kredi Kartı,Mersin,Tamamlandı
+ORD-10301,14.11.2025,Aycagül Demir,seneraybora@example.com,İstanbul,Kurumsal,Kablosuz Kulaklık,elektronik,4,788.21,3152.84,Dijital Cüzdan,İstanbul,Tamamlandı
+ORD-10109,2025-07-15,Kapagan Hayrioğlu,doguhancamurcuoglu@example.org,Mersin,Bireysel,Cilt Bakım Seti,Kozmetik,5,668.61,3343.05,Dijital Cüzdan,Mersin,Tamamlandı
+ORD-10202,2025-06-13,Kısmet Safura Öcalan,inonusubutiye@example.org,Samsun,Kurumsal,Mutfak Robotu,Ev & Yaşam,2,2788.15,5576.3,Kredi Kartı,Samsun,Tamamlandı
+ORD-10105,2025-12-21,Uz. Türkalp Çeviköz Akdeniz,muhiye31@example.com,Konya,Bireysel,Roman Seti (5 Kitap),Kitap & Kırtasiye,altı,401.95,2411.7,Dijital Cüzdan,Konya,Tamamlandı
+ORD-10177,2025-11-22,Doç. Değer Kardelen Akgündüz,sagit42@example.com,Konya,Kurumsal,Kadın Elbise,Giyim,altı,677.44,4064.64,Kredi Kartı,Konya,Tamamlandı
+ORD-10220,2025-08-15,Adlan Korutürk,gunsel69@example.org,Eskişehir,Kurumsal,Cilt Bakım Seti,Kozmetik,2,677.1,1354.2,Kapıda Ödeme,Eskişehir,Tamamlandı
+ORD-10108,2025-07-11,Bay Dağistan Hüryaşar Tarhan,tugcan78@example.net,Konya,Bireysel,Erkek Ceket,Giyim,5,972.59,4862.95,Havale/EFT,Konya,Tamamlandı
+ORD-10362,2025-01-20,Işin İnönü Korutürk,duranalize@example.com,Ankara,Bireysel,Erkek Ceket,,5,934.32 TL,4671.6,Dijital Cüzdan,Mersin,Tamamlandı
+ORD-10100,01.08.2025,Feryas Gilman Demirel Alemdar,eraslansevketfeza@example.com,ADANA,Kurumsal,Kablosuz Kulaklık,Elektronik,3,888.43,2665.29,Dijital Cüzdan,Adana,Tamamlandı
+ORD-10139,2025-08-08,Dr. Aytöz Menfeat İhsanoğlu Akçay,gocalan@example.org,Kayseri,Bireysel,Akıllı Telefon,Elektronik,6,26540.71,159244.26,Kapıda Ödeme,Antalya,Tamamlandı
+ORD-10258,2025-04-28,Prof. Nalân Işin Mansız Eraslan,benol86@example.net, Konya  ,Bireysel,Cilt Bakım Seti,Kozmetik,5,742.26,3711.3,Kapıda Ödeme,Konya,Tamamlandı
+ORD-10059,2025-12-23,Öğr. Toköz Çorlu,jcamurcuoglu@example.org,İstanbul,Kurumsal,Cilt Bakım Seti,Kozmetik,1,783.75,783.75,Kapıda Ödeme,İstanbul,İptal
+ORD-10343,2025-09-24,Atasagun Cansin Akgündüz,cannur29@example.net,Konya,Kurumsal,Güneş Gözlüğü,Aksesuar,6,421.81,2530.86,Kredi Kartı,Konya,Tamamlandı
+ORD-10348,2025-12-27,Müveddet Akçay Şener,icamurcuoglu@example.org,Samsun,Bireysel,Koşu Ayakkabısı,Spor,3,1162.08,3486.24,Havale/EFT,Samsun,Tamamlandı
+ORD-10048,2025-03-07,Zerafet Uğur Soylu Aslan,uzbay88@example.com,Bursa,Kurumsal,Mutfak Robotu,ev & yaşam,6,2781.51,16689.06,Havale/EFT,Bursa,Tamamlandı
+ORD-10154,2025-05-21,Öğr. Tahir Çorlu,demirdoganalp@example.net,Mersin,Bireysel,Masaüstü Bilgisayar,Elektronik,5,16924.51,84622.55,Dijital Cüzdan,Mersin,Tamamlandı
+ORD-10335,2025-03-01,Hacile Arsoy Zengin,lkisakurek@example.com,Bursa,Bireysel,Akıllı Saat,Elektronik,1,1375.92,1375.92,Dijital Cüzdan,Bursa,İptal
+ORD-10101,2025-09-05,Ayduru Sezer,yilmazaynilhayat@example.com,Adana,Kurumsal,Bebek Arabası,Anne & Bebek,5,4096.86,20484.3,Kapıda Ödeme,Adana,İade
+ORD-10350,2025-10-09,Tanır Zengin,akay52@example.org,Bursa,Bireysel,Güneş Gözlüğü,Aksesuar,-1,487.96,487.96,Havale/EFT,İstanbul,Tamamlandı
+ORD-10189,2025-02-28,Ümray Kaver Alemdar İnönü,mutasimergul@example.org,İstanbul,Bireysel,Cilt Bakım Seti,Kozmetik,5,703.73,3518.65,Kredi Kartı,İstanbul,Tamamlandı
+ORD-10364,2025-07-06,Zaliha Ergül,ybilge@example.org,Ankara,Kurumsal,Mutfak Robotu,Ev & Yaşam,5,2438.55,12192.75,Kapıda Ödeme,Ankara,İade
+ORD-10208,17/07/2025,Toköz Tarhan,gokce17@example.net,Kayseri,Kurumsal,Bebek Arabası,Anne & Bebek,3,4473.26,13419.78,Kredi Kartı,Ankara,Tamamlandı
+ORD-10266,2025-01-17,Jankat Arslan,ilklimaakca@example.org,Ankara,Kurumsal,Mutfak Robotu,Ev & Yaşam,4,2677.93,10711.72,Kredi Kartı,Ankara,Tamamlandı
+ORD-10215,2025-07-30,Öğr. Feyha Nurseda Zorlu,yamanbedi@example.org,Kayseri,Kurumsal,Akıllı Saat,Elektronik,6,1345.04,8070.24,Havale/EFT,Kayseri,İade
+ORD-10352,2025-02-08,Dilsitan Bilgin Bilir,wtarhan@example.net,İstanbul,Bireysel,Koşu Ayakkabısı,Spor,6,1235.86,7415.16,Havale/EFT,Adana,Tamamlandı
+ORD-10222,2025-07-31,Över Erdoğan,mecit79@example.org,Adana,Kurumsal,Bluetooth Hoparlör,Elektronik,6,674.66,4047.96,Kredi Kartı,Adana,İade
+ORD-10424,2025-12-09,Teybet Şazime Aksu,daslan@example.org,Gaziantep,Bireysel,Laptop Standı,Elektronik,5,292.8,1464.0,Kredi Kartı,Gaziantep,Tamamlandı
+ORD-10218,2025-06-02,Çev. Öngen Ümmet Akar,gulker@example.org,Antalya,Bireysel,Cilt Bakım Seti,Kozmetik,3,717.09,2151.27,Kapıda Ödeme,Antalya,Tamamlandı
+ORD-10363,2025-03-08,Av. Pürçek Havali Erdoğan,senerergonul@example.com,Adana,Bireysel,Roman Seti (5 Kitap),Kitap & Kırtasiye,1,339.14,339.14,Havale/EFT,Adana,Tamamlandı
+ORD-10259,2025-11-25,Oymak Önel Sezer Manço,beray02@example.com,Samsun,Kurumsal,Güneş Gözlüğü,Aksesuar,2,481.42,962.84,Kapıda Ödeme,Samsun,Tamamlandı
+ORD-10297,2025-11-24,Tuğrulhan Rasul Bilir,yorulmazsevla@example.com,Adana,Kurumsal,Akıllı Telefon,Elektronik,4,25333.28,101333.12,Kapıda Ödeme,Adana,Tamamlandı
+ORD-10445,2025-12-21,Idık Durdu,erkanmanco@example.com,Bursa,Kurumsal,Mutfak Robotu,Ev & Yaşam,3,2899.36,8698.08,Dijital Cüzdan,Bursa,Tamamlandı
+ORD-10413,2025-04-13,Havse Sevsevil Eraslan Ergül,emansiz@example.net,Samsun,Kurumsal,Kablosuz Kulaklık,Elektronik,3,893.66,2680.98,Havale/EFT,İstanbul,Tamamlandı
+ORD-10329,2025-09-19,Uz. Rafih Dumanlı,nsakarya@example.net,Bursa,Bireysel,Bebek Arabası,Anne & Bebek,3,4108.21,12324.63,Kredi Kartı,Bursa,Tamamlandı
+ORD-10334,2025-01-29,Üge Sevican Hayrioğlu,arziyekisakurek@example.net,Gaziantep,Bireysel,Masaüstü Bilgisayar,Elektronik,2,17593.93,35187.86,Kredi Kartı,Gaziantep,Tamamlandı
+ORD-10478,2025-07-03,Tuğrulhan Hayrioğlu,bezekdemir@example.com,Antalya,Kurumsal,Bebek Arabası,Anne & Bebek,1,3927.65,3927.65,Kredi Kartı,Antalya,İptal
+ORD-10312,2025-02-17,Maksur Sezgin,aakcay@example.net,Konya,Kurumsal,Masaüstü Bilgisayar,Elektronik,4,20165.94,80663.76,,Konya,İptal
+ORD-10461,2025-06-14,Ökkaş Kanak Demirel,akartaciddin@example.org,Konya,Bireysel,Mutfak Robotu,Ev & Yaşam,3,2671.33,8013.99,Kapıda Ödeme,Kayseri,Tamamlandı
+ORD-10338,2025-08-27,Cabir Ülker,neribanakar@example.com,Antalya,Kurumsal,Roman Seti (5 Kitap),Kitap & Kırtasiye,1,378.98 TL,378.98,Kredi Kartı,Antalya,Tamamlandı
+ORD-10285,2025-07-29,Dr. Ulakbey Çamurcuoğlu,korugan76@example.org,Eskişehir,Kurumsal,Kahve Makinesi,Ev & Yaşam,altı,1815.47,10892.82,Kapıda Ödeme,Eskişehir,Tamamlandı
+ORD-10068,2025-02-08,Nuretdin Ülker,semsinisaeraslan@example.net,Mersin,Bireysel,Bluetooth Hoparlör,Elektronik,6,674.88,4049.28,Kredi Kartı,Mersin,Tamamlandı
+ORD-10339,2025-06-05,Doç. Nasiba Salimet Ülker Şafak,meryemekoruturk@example.net,Samsun,Bireysel,Güneş Gözlüğü,Aksesuar,3,468.44,1405.32,Dijital Cüzdan,Samsun,Tamamlandı
+ORD-10402,2025-05-14,Duha Burcuhan Şafak Akçay,ertasisiman@example.org,Eskişehir,Kurumsal,Koşu Ayakkabısı,Spor,iki,1254.32,2508.64,Havale/EFT,Eskişehir,Tamamlandı
+ORD-10477,25/11/2025,Bayan Sidar Rehime Erdoğan,aarsoy@example.com, Konya  ,Kurumsal,Masaüstü Bilgisayar,Elektronik,-2,19164.45,38328.9,,Konya,Tamamlandı
+ORD-10440,2025-02-24,Prof. Yalın Samurtay Gülen,durdali37@example.org,İstanbul,Bireysel,Cilt Bakım Seti,Kozmetik,2,766.34,1532.68,Dijital Cüzdan,Mersin,Tamamlandı
+ORD-10379,2025-07-09,Durmuşali Sargın Tarhan Durmuş,gulensemsettin@example.net,Konya,Kurumsal,Yoga Matı,Spor,4,254.5,1018.0,Dijital Cüzdan,Konya,Tamamlandı
+ORD-10475,2025-04-10,Mecide Ergül Şama,lkaradeniz@example.org,Adana,Kurumsal,Güneş Gözlüğü,,3,470.7,1412.1,Kapıda Ödeme,Adana,Tamamlandı
+ORD-10193,2025-09-10,Yaltırak Ergül,ergulbasim@example.com,İstanbul,Kurumsal,Bebek Arabası,Anne & Bebek,5,4089.89,20449.45,Havale/EFT,İstanbul,Tamamlandı
+ORD-10453,2025-05-09,Yrd. Doç. Nura İnsaf Akçay Korutürk,ibilir@example.com,Bursa,Kurumsal,Erkek Ceket,Giyim,6,1030.52,6183.12,Kapıda Ödeme,Bursa,Tamamlandı
+ORD-10122,2025-03-11,Duruöz Şinasi Hançer,inonuperen@example.com,Konya,Kurumsal,Masaüstü Bilgisayar,Elektronik,6,20162.71,120976.26,Dijital Cüzdan,Konya,Tamamlandı
+ORD-10296,2025-10-02,Prof. İçimbike Ayyaruk Gülen,ginonu@example.net,İzmir,Kurumsal,Roman Seti (5 Kitap),Kitap & Kırtasiye,iki,371.82,743.64,Kapıda Ödeme,İzmir,Tamamlandı
+ORD-10407,2025-12-02,Eroğul Mansız,okyalaz22@example.com,Ankara,Bireysel,Masaüstü Bilgisayar,Elektronik,2,19403.58,38807.16,Kapıda Ödeme,Ankara,İptal
+ORD-10393,2025-01-15,Pembesin Varlık Tarhan,nurtac43@example.com,İzmir,Bireysel,Koşu Ayakkabısı,Spor,1,1187.37,1187.37,Dijital Cüzdan,Adana,Tamamlandı
+ORD-10045,2025-06-10,Permun Şensoy,dzengin@example.net,Konya,Bireysel,Mutfak Robotu,Ev & Yaşam,5,2485.74,12428.7,Kredi Kartı,Konya,Tamamlandı
+ORD-10181,08.04.2025,Yilmaz Dumanlı,eris57@example.net,Antalya,Kurumsal,Akıllı Saat,Elektronik,6,1401.26,8407.56,Kredi Kartı,Antalya,Tamamlandı
+ORD-10358,24/05/2025,Bergen Adila Bilge Eraslan,nulker@example.com,İstanbul,Kurumsal,Parfüm,Kozmetik,3,1158.71,3476.13,Havale/EFT,İstanbul,Tamamlandı
+ORD-10484,2025-04-30,Çelem Gül,sevensadeti@example.net,İstanbul,Bireysel,Parfüm,Kozmetik,3,1075.38,3226.14,Dijital Cüzdan,İstanbul,Tamamlandı
+ORD-10353,2025-08-25,Vâlâ Demir,valaakgunduz@example.com,İstanbul,Bireysel,Ofis Sandalyesi,Ev & Yaşam,4,2235.11,8940.44,Dijital Cüzdan,İstanbul,Tamamlandı
+ORD-10324,2025-11-08,Özpınar Yıldırım,qzorlu@example.net,Antalya,Bireysel,Çocuk Oyuncak Seti,Anne & Bebek,2,411.46,822.92,Havale/EFT,Antalya,Tamamlandı
+ORD-10487,2025-04-25,Baytal Ünübol Arsoy Alemdar,bilkaygulen@example.net,Kayseri,Kurumsal,Masaüstü Bilgisayar,Elektronik,3,18451.39 TL,55354.17,Dijital Cüzdan,Kayseri,Tamamlandı
+ORD-10397,20.04.2025,Yeşil Alize Durdu,tevetogluozkent@example.org,Bursa,Bireysel,Koşu Ayakkabısı,Spor,3,1287.9 TL,3863.7,Kredi Kartı,Bursa,İade
+ORD-10485,2025-11-29,Temizkal Arslan,yurtseventevetoglu@example.org,adana,Bireysel,Parfüm,Kozmetik,-6,1172.52,7035.12,Kapıda Ödeme,Adana,Tamamlandı
+ORD-10162,2025-06-18,Salimet Hadrey Arsoy,barsen58@example.net,İzmir,Bireysel,Sırt Çantası,AKSESUAR,5,573.7,2868.5,Kapıda Ödeme,İzmir,İade
+ORD-10155,2025-05-27,Sittik Ruhsat Hayrioğlu,atarhan@example.org,Ankara,Bireysel,Akıllı Telefon,Elektronik,5,24935.2,124676.0,Dijital Cüzdan,Ankara,İade
+ORD-10328,27.05.2025,Öğr. Muhammet Pirahmet Hançer,gdurdu@example.com,Eskişehir,Kurumsal,Sırt Çantası,Aksesuar,6,578.47,3470.82,Havale/EFT,Eskişehir,Tamamlandı
+ORD-10117,2025-03-26,Fildan Nurser Türk,alemdarzahid@example.org,Antalya,Kurumsal,Çocuk Oyuncak Seti,Anne & Bebek,6,440.37,2642.22,Kredi Kartı,Antalya,Tamamlandı
+ORD-10090,10.09.2025,Memili Karadeniz,alemdartasvir@example.com,gaziantep,Bireysel,Akıllı Telefon,Elektronik,1,26839.33,26839.33,Kapıda Ödeme,Gaziantep,Tamamlandı
+ORD-10089,2025-05-28,Av. Barışcan Korutürk,gdurmus@example.net,Gaziantep,Bireysel,Güneş Gözlüğü,Aksesuar,6,441.98,2651.88,Dijital Cüzdan,Gaziantep,Tamamlandı
+ORD-10389,2025-01-26,Dr. Nefaret Ürper İnönü,atilgan09@example.com,Samsun,Kurumsal,Kadın Elbise,Giyim,3,678.03,2034.09,Kapıda Ödeme,Samsun,Tamamlandı
+ORD-10374,2025-02-17,Cuheyna Maksüde Duran Aslan,zulgarni29@example.net,Adana,Kurumsal,Kablosuz Kulaklık,Elektronik,4,925.22,3700.88,Havale/EFT,Adana,Tamamlandı
+ORD-10254,19.04.2025,Gökay Baydu Mansız,boztas40@example.com,Bursa,Bireysel,Cilt Bakım Seti,Kozmetik,2,748.17,1496.34,Havale/EFT,Bursa,Tamamlandı
+ORD-10245,2025-11-01,Fami Zorlu,mmansiz@example.org,İstanbul,Kurumsal,Akıllı Telefon,Elektronik,6,25912.37,155474.22,Kredi Kartı,İstanbul,Tamamlandı
+ORD-10416,2025-06-25,İlkim Erdoğan,iguclu@example.net,Gaziantep,Kurumsal,Koşu Ayakkabısı,Spor,2,1362.02,2724.04,Dijital Cüzdan,Bursa,Tamamlandı
+ORD-10369,2025-02-15,Zilfa Şensoy Fırat,degmeerocalan@example.com,Samsun,Kurumsal,Güneş Gözlüğü,Aksesuar,1,438.4,438.4,Havale/EFT,Samsun,Tamamlandı
+ORD-10132,2025-03-17,Okt. Canberk Güngördü Tevetoğlu,nzamettnsezgin@example.com, Ankara  ,Bireysel,Kadın Elbise,Giyim,5,769.96,3849.8,Kapıda Ödeme,Ankara,Tamamlandı
+ORD-10261,2025-01-04,Gülel Yorulmaz,mengucmansiz@example.com,Konya,Bireysel,Erkek Ceket,Giyim,1,1031.02 TL,1031.02,Kredi Kartı,Konya,Tamamlandı
+ORD-10237,2025-01-29,Yrd. Doç. Ersel Ergül,ozgerbilir@example.org,Gaziantep,Bireysel,Parfüm,Kozmetik,4,1090.5,4362.0,Kredi Kartı,Gaziantep,Tamamlandı
+ORD-10147,01/07/2025,Yrd. Doç. Nevsale Arsoy Şama,asliye22@example.com,Ankara,Kurumsal,Akıllı Saat,Elektronik,4,1310.44,5241.76,Kredi Kartı,Ankara,Tamamlandı
+ORD-10052,2025-08-22,Zihni Akbaş İnönü Akça,bilginaytuna@example.org,Konya,Bireysel,Mutfak Robotu,Ev & Yaşam,4,2596.82 TL,10387.28,Havale/EFT,Konya,Tamamlandı
+ORD-10074,2025-05-22,Erkan Arslan,sezginabdurrahman@example.net,Kayseri,Bireysel,Parfüm,Kozmetik,2,1008.83,2017.66,Dijital Cüzdan,Kayseri,Tamamlandı
+ORD-10444,2025-03-07,Henife Dumanlı Sezgin,corluvefia@example.net,Ankara,Kurumsal,Akıllı Telefon,Elektronik,5,26805.83,134029.15,Dijital Cüzdan,Ankara,Tamamlandı
+ORD-10039,2025-01-21,Öğr. Koray Yaman,akcaferinaz@example.net,Adana,Bireysel,Erkek Ceket,Giyim,6,911.35,5468.1,Dijital Cüzdan,Adana,Tamamlandı
+ORD-10263,2025-10-02,Deha Ünal Güçlü,incifir16@example.com, Antalya  ,Bireysel,Parfüm,Kozmetik,6,1138.29,6829.74,Havale/EFT,Ankara,Tamamlandı
+ORD-10375,2025-01-28,Okt. Arkut Mestur Durmuş,sancakbilir@example.org,Ankara,Kurumsal,Koşu Ayakkabısı,Spor,2,1227.32,2454.64,Kapıda Ödeme,Ankara,Tamamlandı
+ORD-10030,19.10.2025,Kumral Açılay Sezgin,berrinarslan@example.com,Bursa,Bireysel,Akıllı Telefon,Elektronik,1,24497.74,24497.74,Kapıda Ödeme,Bursa,Tamamlandı
+ORD-10032,2025-02-07,Uludağ Şener,yukselaygutalp@example.org,İstanbul,Kurumsal,Akıllı Telefon,Elektronik,5,27370.56,136852.8,Kredi Kartı,İstanbul,Tamamlandı
+ORD-10476,2025-10-18,Tülin Sonnur Sezgin Yüksel,durduseyithan@example.net,Adana,Kurumsal,Sırt Çantası,Aksesuar,2,531.57,1063.14,Havale/EFT,Adana,Tamamlandı
+ORD-10246,2025-08-13,Öğr. Şeyda Korutürk İhsanoğlu,gulgen20@example.com,Bursa,Bireysel,Akıllı Saat,Elektronik,2,1451.13,2902.26,Kapıda Ödeme,Bursa,İptal
+ORD-10438,2025-06-24,Aysevim Alemdar,soylukoldan@example.com,Adana,Bireysel,Erkek Ceket,Giyim,dört,956.73 TL,3826.92,Dijital Cüzdan,Adana,Tamamlandı
+ORD-10034,2025-11-10,Gürcüye Korutürk İhsanoğlu,aysan33@example.com,Eskişehir,Bireysel,Bebek Arabası,Anne & Bebek,3,4562.68,13688.04,Kredi Kartı,Eskişehir,Tamamlandı
+ORD-10299,2025-03-01,Erdemer Sakarya,cetinbelkize@example.com, İzmir  ,Kurumsal,Kahve Makinesi,Ev & Yaşam,5,1847.84,9239.2,Havale/EFT,İzmir,Tamamlandı
+ORD-10134,2025-07-31,Ünsever Hançer,xsoylu@example.org,Adana,Kurumsal,Mutfak Robotu,Ev & Yaşam,dört,2771.69,11086.76,Kapıda Ödeme,Adana,Tamamlandı
+ORD-10427,2025-03-29,Sencar Olca Korutürk,ildiz18@example.net,Adana,Kurumsal,Güneş Gözlüğü,aksesuar,5,438.68,2193.4,Kredi Kartı,Adana,Tamamlandı
+ORD-10207,2025-07-07,Gülseren Ergül,elnur35@example.com, Konya  ,Kurumsal,Akıllı Saat,Elektronik,4,1319.84,5279.36,Havale/EFT,Konya,Tamamlandı
+ORD-10361,25/12/2025,Dr. Salurbay Koçak Aksu,ozokcuaslan@example.net,Adana,Bireysel,Ofis Sandalyesi,Ev & Yaşam,2,2241.41,4482.82,Dijital Cüzdan,Adana,Tamamlandı
+ORD-10209,2025-06-23,Tanak Zorlu,oryurekdemirel@example.com,Kayseri,Kurumsal,Kahve Makinesi,Ev & Yaşam,2,1928.73,3857.46,Dijital Cüzdan,Kayseri,Tamamlandı
+ORD-10040,2025-05-02,Çev. Gülşeref Gülözge Yıldırım Çamurcuoğlu,laika18@example.net,İzmir,Bireysel,Sırt Çantası,Aksesuar,1,552.16,552.16,Kapıda Ödeme,İzmir,Tamamlandı
+ORD-10131,2025-08-07,Uz. Şeyda Heva Demirel Akdeniz,corluecegul@example.org,Eskişehir,Bireysel,Cilt Bakım Seti,Kozmetik,6,779.0,4674.0,Kredi Kartı,Eskişehir,Tamamlandı
+ORD-10071,2025-05-19,Çev. Çerçi Demir,resulcan50@example.net,Mersin,Kurumsal,Güneş Gözlüğü,Aksesuar,4,489.97 TL,1959.88,Kapıda Ödeme,Mersin,Tamamlandı
+ORD-10006,2025-10-10,Büşranur Evrim Duran,bilgekosemen@example.com,Antalya,Kurumsal,Ofis Sandalyesi,Ev & Yaşam,2,2185.92,4371.84,Kredi Kartı,Antalya,Tamamlandı
+ORD-10175,2025-03-15,Günver Bilge,aksuefil@example.net,Antalya,Kurumsal,Kablosuz Kulaklık,Elektronik,5,824.98,4124.9,Dijital Cüzdan,Antalya,Tamamlandı
+ORD-10157,2025-06-25,Dr. Tandoğdu Barışcan Ertaş,ildemguclu@example.org,Samsun,Bireysel,Parfüm,Kozmetik,6,1027.96,6167.76,Havale/EFT,Samsun,İade
+ORD-10248,2025-10-13,Enes Ağakişi Durdu Durdu,tevetoglusumeyye@example.com,MERSIN,Bireysel,Sırt Çantası,Aksesuar,beş,589.48,2947.4,Kapıda Ödeme,Mersin,Tamamlandı
+ORD-10077,2025-06-30,Açıkel Günaydin Çorlu,narhanimturk@example.org,Samsun,Kurumsal,Kadın Elbise,Giyim,3,712.71,2138.13,Kredi Kartı,Samsun,Tamamlandı
+ORD-10002,2025-02-14,Dr. Fatinur Hürmet Akdeniz Çorlu,bulker@example.com,Mersin,Kurumsal,Akıllı Saat,Elektronik,1,1332.17,1332.17,Havale/EFT,Mersin,Tamamlandı
+ORD-10213,2025-12-02,Okt. Tecimer Nayil Manço,kaksu@example.com,Mersin,Bireysel,Akıllı Saat,Elektronik,5,1444.33,7221.65,Dijital Cüzdan,Eskişehir,Tamamlandı
+ORD-10293,2025-09-22,Tülin Şahdiye Bilge,akcateber@example.org,İzmir,Bireysel,Roman Seti (5 Kitap),Kitap & Kırtasiye,5,369.48,1847.4,Dijital Cüzdan,İzmir,Tamamlandı
+ORD-10469,11.03.2025,Kader Yılmaz,tevetogluefil@example.org,Samsun,Kurumsal,Bebek Arabası,Anne & Bebek,3,4586.51,13759.53,Havale/EFT,Samsun,İptal
+ORD-10474,2025-10-25,Sebigül İnönü,subutiye07@example.net,Gaziantep,Kurumsal,Masaüstü Bilgisayar,Elektronik,2,19133.79,38267.58,Havale/EFT,Mersin,Tamamlandı
+ORD-10073,2025-06-16,Sabih Erdoğan,kyuksel@example.org,İzmir,Kurumsal,Koşu Ayakkabısı,Spor,3,1324.46,3973.38,Kapıda Ödeme,İzmir,Tamamlandı
+ORD-10009,2025-11-24,Damlanur Türk,caksu@example.org,Samsun,Bireysel,Roman Seti (5 Kitap),Kitap & Kırtasiye,1,354.68,354.68,Kredi Kartı,Samsun,Tamamlandı
+ORD-10290,2025-02-23,Av. Gökay Abdulmenaf Arslan,yayak45@example.com,Antalya,Kurumsal,Laptop Standı,Elektronik,bir,341.2,341.2,Havale/EFT,Antalya,Tamamlandı
+ORD-10368,2025-09-12,Öğr. Şevketfeza Fermuta Demirel Gülen,fakgunduz@example.net,İzmir,Kurumsal,Laptop Standı,Elektronik,2,310.2,620.4,Kapıda Ödeme,İzmir,İptal
+ORD-10115,2025-11-27,Nihai İdiris Fırat,zenginatgun@example.com,İstanbul,Kurumsal,Güneş Gözlüğü,Aksesuar,1,467.32,467.32,Havale/EFT,Antalya,Tamamlandı
+ORD-10116,2025-08-01,Mevlüdiye Sezer Tarhan,zhayrioglu@example.org,i̇zmir,Bireysel,Kahve Makinesi,Ev & Yaşam,5,2032.3,10161.5,Kapıda Ödeme,İzmir,İptal
+ORD-10230,2025-05-08,Bay Başhan Korutürk,misra28@example.org,İstanbul,Kurumsal,Mutfak Robotu,Ev & Yaşam,2,2621.77,5243.54,Kapıda Ödeme,İstanbul,Tamamlandı
+ORD-10386,2025-01-07,Gürelcem Akçay,hanceruzer@example.org,Samsun,Kurumsal,Bluetooth Hoparlör,Elektronik,4,595.15,2380.6,Kredi Kartı,Samsun,Tamamlandı
+ORD-10303,2025-04-23,Av. Muarra Şafak Yüksel,hazrat62@example.com,Antalya,Bireysel,Kadın Elbise,Giyim,2,755.64,1511.28,Havale/EFT,Antalya,Tamamlandı
+ORD-10450,2025-05-17,Teksoy Yaman,ayasunyilmaz@example.org,İzmir,Kurumsal,Kadın Elbise,Giyim,2,800.91,1601.82,Kapıda Ödeme,İzmir,Tamamlandı
+ORD-10262,31.01.2025,Adal Dumanlı,cuneyithayrioglu@example.org,Mersin,Kurumsal,Cilt Bakım Seti,Kozmetik,1,648.95,648.95,Dijital Cüzdan,Kayseri,Tamamlandı
+ORD-10454,2025-11-05,Öğr. Zaliha Fatigül Sezgin,karadenizzamir@example.org,Bursa,Bireysel,Çocuk Oyuncak Seti,Anne & Bebek,4,383.55,1534.2,Kredi Kartı,Bursa,Tamamlandı
+ORD-10471,08.10.2025,Mehdiye Akça,ummahan19@example.com,Ankara,Kurumsal,Koşu Ayakkabısı,Spor,6,1310.36,7862.16,Kapıda Ödeme,Ankara,İptal
+ORD-10354,2025-08-07,Maksüde Çetin,rarslan@example.com,İzmir,Kurumsal,Koşu Ayakkabısı,Spor,2,1193.75,2387.5,Dijital Cüzdan,İzmir,Tamamlandı
+ORD-10371,2025-09-10,Gülev Arziye Bilgin,nudretbilgin@example.net,Konya,Kurumsal,Bebek Arabası,Anne & Bebek,4,3865.2,15460.8,,Konya,Tamamlandı
+ORD-10355,2025-11-14,Öğr. Gök Alemdar Hayrioğlu,pbilgin@example.com,Mersin,Bireysel,Çocuk Oyuncak Seti,Anne & Bebek,4,402.78,1611.12,Dijital Cüzdan,Antalya,Tamamlandı
+ORD-10111,2025-10-28,Oluş Seven,subutiyemansiz@example.org,Antalya,Kurumsal,Kadın Elbise,Giyim,4,801.8,3207.2,Havale/EFT,Antalya,İptal
+ORD-10326,2025-07-04,Tiğin Sezer,edaviyecamurcuoglu@example.org,Adana,Bireysel,Mutfak Robotu,,5,2608.06,13040.3,Havale/EFT,Adana,İade
+ORD-10106,2025-09-07,Arş. Gör. Yücel Beyhatun Ülker Mansız,gkoruturk@example.com,Kayseri,Bireysel,Akıllı Telefon,Elektronik,1,23579.16,45440.31,Kapıda Ödeme,Kayseri,Tamamlandı
+ORD-10307,29.10.2025,Rabbiye Tülin Arslan,birbensezer@example.org,Samsun,Kurumsal,Akıllı Telefon,Elektronik,6,24542.27,147253.62,Havale/EFT,Samsun,Tamamlandı
+ORD-10494,21.08.2025,Dündaralp Kısakürek,hsoylu@example.org, Mersin  ,Bireysel,Erkek Ceket,,4,967.32,3869.28,Kredi Kartı,Kayseri,İptal
+ORD-10305,2025-08-14,Sayın Akar,veisyildirim@example.net,Kayseri,Bireysel,Sırt Çantası,Aksesuar,1,617.85,617.85,Havale/EFT,Kayseri,İade
+ORD-10365,12.08.2025,Ünal Canur Bilir,tanir25@example.org,Eskişehir,Kurumsal,Roman Seti (5 Kitap),Kitap & Kırtasiye,2,390.54,781.08,Kapıda Ödeme,Eskişehir,Tamamlandı
+ORD-10091,2025-04-28,Öğr. Rafia Ticen Yorulmaz Akgündüz,behizacamurcuoglu@example.com,Eskişehir,Bireysel,Kadın Elbise,Giyim,5,681.03,3405.15,Havale/EFT,Eskişehir,Tamamlandı
+ORD-10114,2025-06-30,Doç. Melikkan Aynilhayat Güçlü,,Bursa,Bireysel,Akıllı Telefon,Elektronik,3,25785.27,77355.81,Havale/EFT,Bursa,İptal
+ORD-10154,2025-05-21,Öğr. Tahir Çorlu,demirdoganalp@example.net,Mersin,Bireysel,Masaüstü Bilgisayar,Elektronik,5,16924.51,84622.55,Dijital Cüzdan,Mersin,Tamamlandı
+ORD-10205,12.01.2025,Gülnaziye Hurşide Şama Akçay,demirballi@example.org,Ankara,Kurumsal,Parfüm,Kozmetik,4,1202.67,4810.68,Havale/EFT,Ankara,Tamamlandı
+ORD-10485,2025-11-29,Temizkal Arslan,yurtseventevetoglu@example.org,adana,Bireysel,Parfüm,Kozmetik,-6,1172.52,7035.12,Kapıda Ödeme,Adana,Tamamlandı
+ORD-10383,2025-10-20,Öğr. Nurcan Çağa Yılmaz,usoylu@example.net,Eskişehir,Bireysel,Bluetooth Hoparlör,Elektronik,-4,598.13 TL,2392.52,Havale/EFT,Eskişehir,Tamamlandı
+ORD-10087,18.12.2025,Selime Alemdar,azengin@example.com,Bursa,Kurumsal,Ofis Sandalyesi,Ev & Yaşam,6,2227.64,13365.84,Havale/EFT,Bursa,Tamamlandı
+ORD-10372,18.12.2025,Ensari Cemalettin Sezer Fırat,efirat@example.com,Bursa,Bireysel,Güneş Gözlüğü,Aksesuar,1,487.53,487.53,Kredi Kartı,Bursa,Tamamlandı
+ORD-10103,17/07/2025,Rojnu Nursim İnönü Eraslan,cyildirim@example.org,Eskişehir,Bireysel,Cilt Bakım Seti,Kozmetik,1,666.18,1042.73,Kapıda Ödeme,Eskişehir,İptal
+ORD-10302,2025-09-11,Öğr. Şavki Manço,aynilhayatmanco@example.com,Konya,Kurumsal,Sırt Çantası,Aksesuar,6,630.11,3780.66,Dijital Cüzdan,Konya,Tamamlandı
+ORD-10340,2025-10-07,Dalkılıç Mertel Bilgin Ülker,erdoganaclan_at_example,Bursa,Bireysel,Kablosuz Kulaklık,Elektronik,4,769.06,3076.24,Kapıda Ödeme,Bursa,Tamamlandı
+ORD-10043,2025-07-24,Niğmet Hayrioğlu Yılmaz,earslan@example.net,Adana,Kurumsal,Laptop Standı,Elektronik,3,310.47,931.41,Dijital Cüzdan,Adana,Tamamlandı
+ORD-10399,2025-06-06,Afer Dumanlı,menisan06@example.org,Samsun,Kurumsal,Sırt Çantası,Aksesuar,4,631.49,4563.49,Dijital Cüzdan,Samsun,Tamamlandı
+ORD-10110,2025-12-08,Uğur Esmanperi Yüksel,zahidocalan@example.com,İstanbul,Kurumsal,Çocuk Oyuncak Seti,Anne & Bebek,6,413.82 TL,2482.92,Kredi Kartı,İstanbul,Tamamlandı
+ORD-10171,2025-07-11,Okt. Mahnaz Bilgin Ergül,ulkerfatih@example.org,Bursa,Bireysel,Roman Seti (5 Kitap),Kitap & Kırtasiye,1,400.44,400.44,Kapıda Ödeme,Bursa,Tamamlandı
+ORD-10430,2025-04-03,Gülsalın Durmuş,sadatseven@example.net,Mersin,Kurumsal,Masaüstü Bilgisayar,Elektronik,5,16756.62,83783.1,Havale/EFT,Mersin,Tamamlandı
+ORD-10118,2025-04-26,Uz. Dürrüşehvar Hurşide Seven Gülen,akgunduzboztas@example.net,Eskişehir,Kurumsal,Bebek Arabası,Anne & Bebek,3,3855.85 TL,18338.28,Dijital Cüzdan,Kayseri,Tamamlandı
+ORD-10173,2025-10-08,Uz. Ayşeana Günver Şensoy,gunduzalpgulen@example.net,Samsun,Kurumsal,Bluetooth Hoparlör,Elektronik,3,606.42,1819.26,Kredi Kartı,Konya,Tamamlandı
+ORD-10481,2025-10-06,Övün Yurtseven Yüksel,cihanmanco@example.org,Kayseri,Kurumsal,Kahve Makinesi,Ev & Yaşam,3,1849.36,5548.08,Kapıda Ödeme,Kayseri,Tamamlandı
+ORD-10148,2025-10-21,Çaltı Sakarya,jdumanli@example.org,Konya,Kurumsal,Çocuk Oyuncak Seti,anne & bebek,1,402.21,402.21,Kapıda Ödeme,Konya,İade
+ORD-10455,2025-09-21,Razı Tanak Yüksel Gül,kadergulen@example.org,Ankara,Kurumsal,Akıllı Saat,Elektronik,4,1385.94,5543.76,Kapıda Ödeme,Mersin,Tamamlandı
+ORD-10028,2025-01-30,Dilder Akar,uzbay85@example.net,Mersin,Bireysel,Roman Seti (5 Kitap),Kitap & Kırtasiye,1,341.26,341.26,Dijital Cüzdan,Mersin,İptal
+ORD-10396,2025-05-13,Doç. Havse Selcen Korutürk,ilgi07@example.org,Samsun,Bireysel,Çocuk Oyuncak Seti,Anne & Bebek,1,400.7,400.7,Havale/EFT,Samsun,Tamamlandı
+ORD-10498,2025-07-15,Gülbiye Yılmaz,selvicamurcuoglu@example.org,Adana,Bireysel,Sırt Çantası,Aksesuar,2,561.03,1122.06,Havale/EFT,Adana,Tamamlandı
+ORD-10005,2025-06-26,Arıkol Duran,yukselruknettin@example.com,Mersin,Kurumsal,Akıllı Saat,Elektronik,6,1438.23,8629.38,Kredi Kartı,Mersin,Tamamlandı
+ORD-10229,2025-07-27,Soykut Soylu,qgulen@example.com,Konya,Kurumsal,Laptop Standı,Elektronik,4,330.83 TL,1323.32,Havale/EFT,Konya,Tamamlandı
+ORD-10344,2025-07-21,Okt. Mülâyim Alsoy Karadeniz,akcauluman@example.net,Ankara,Bireysel,Sırt Çantası,Aksesuar,6,644.78,3868.68,Havale/EFT,Ankara,İptal
+ORD-10161,2025-12-02,Köker Yıldırım,semsinisa54@example.org,Samsun,Kurumsal,Kahve Makinesi,Ev & Yaşam,5,1968.94,9844.7,Kredi Kartı,Samsun,Tamamlandı
+ORD-10472,2025-09-20,Müfit Olca Akar İnönü,hancertekbay_at_example,İzmir,Bireysel,Yoga Matı,Spor,2,286.55,573.1,Kapıda Ödeme,İzmir,Tamamlandı
+ORD-10064,2025-01-10,Yaltırak Hayrioğlu,osoylu@example.net,Samsun,Bireysel,Masaüstü Bilgisayar,Elektronik,2,19055.53,38111.06,Kredi Kartı,Samsun,İade
+ORD-10169,2025-03-05,Birsan Çetin,dyuksel@example.com,Antalya,Bireysel,Yoga Matı,Spor,3,277.16,831.48,Havale/EFT,Antalya,Tamamlandı
+ORD-10277,2025-07-17,Yalın Bilir,dumanlisuayp@example.com,İstanbul,Kurumsal,Sırt Çantası,Aksesuar,4,622.94,2491.76,Havale/EFT,İstanbul,Tamamlandı
+ORD-10270,2025-10-16,Elgin Gürten Arslan,ktarhan@example.net,Bursa,Kurumsal,Bebek Arabası,Anne & Bebek,3,4102.43,12307.29,Havale/EFT,Bursa,Tamamlandı
+ORD-10388,2025-03-30,Nurhayet Ertaş,yhancer@example.com,ANTALYA,Kurumsal,Kahve Makinesi,Ev & Yaşam,5,1931.07,9655.35,Dijital Cüzdan,Adana,Tamamlandı
+ORD-10289,2025-09-23,Duha Aslan Akça,iulker@example.net,KAYSERI,Bireysel,Güneş Gözlüğü,Aksesuar,3,449.98,1349.94,Havale/EFT,Kayseri,Tamamlandı
+ORD-10412,15/02/2025,Sevcan Şilan Karadeniz Kısakürek,muferrih88@example.net,İZMIR,Kurumsal,Sırt Çantası,Aksesuar,4,581.63,2326.52,,İzmir,Tamamlandı
+ORD-10060,2025-08-03,Dr. Silanur Üge Kısakürek,hancersadat@example.org,kayseri,Bireysel,Cilt Bakım Seti,kozmetik,2,687.3,1374.6,Dijital Cüzdan,Adana,Tamamlandı
+ORD-10186,2025-09-20,Ahter Yaşar Bilge Yüksel,ocalansolma@example.net,Samsun,Bireysel,Kablosuz Kulaklık,Elektronik,2,909.27,1818.54,Dijital Cüzdan,Ankara,Tamamlandı
+ORD-10446,2025-11-05,Okt. Çağlasın Kırgız Dumanlı,aysenurzorlu@example.com,Samsun,Kurumsal,Bebek Arabası,Anne & Bebek,3,4377.97,13133.91,Havale/EFT,Samsun,Tamamlandı
+ORD-10025,2025-04-04,Atılgan Arsoy,altinbike28@example.net,Antalya,Kurumsal,Erkek Ceket,Giyim,1,978.74,978.74,Kredi Kartı,Kayseri,Tamamlandı
+ORD-10133,2025-05-31,Uludağ Tarhan,dgulen@example.net,Gaziantep,Kurumsal,Bluetooth Hoparlör,ELEKTRONIK,6,590.65,3543.9,Havale/EFT,Gaziantep,İptal
+ORD-10056,2025-11-23,Bekbay Demirel,mtevetoglu@example.net,Antalya,Kurumsal,Erkek Ceket,Giyim,3,978.09,2934.27,Kapıda Ödeme,Antalya,Tamamlandı
+ORD-10020,2025-05-07,Aypar Muratcan Alemdar İhsanoğlu,yorulmazpirahmet@example.org,,Bireysel,Roman Seti (5 Kitap),Kitap & Kırtasiye,1,381.62,381.62,Havale/EFT,Bursa,Tamamlandı
+ORD-10432,2025-10-23,Egenur Müsemma Ülker Sakarya,wdurdu@example.org,Samsun,Bireysel,Roman Seti (5 Kitap),Kitap & Kırtasiye,5,376.73,1883.65,Kredi Kartı,Samsun,Tamamlandı
+ORD-10242,2025-04-02,Yrd. Doç. Akmaner Durdali Ülker,,Kayseri,Kurumsal,Parfüm,Kozmetik,2,1150.13,2300.26,Havale/EFT,Kayseri,Tamamlandı
+ORD-10245,2025-11-01,Fami Zorlu,mmansiz@example.org,İstanbul,Kurumsal,Akıllı Telefon,Elektronik,6,25912.37,155474.22,Kredi Kartı,İstanbul,Tamamlandı
+ORD-10292,2025-12-30,Habibe Sehel Hançer Bilir,gorgunay09@example.org,Ankara,Bireysel,Roman Seti (5 Kitap),Kitap & Kırtasiye,6,345.7,2074.2,Havale/EFT,Ankara,Tamamlandı
+ORD-10337,2025-07-10,Bayan Hafıza Akar Akçay,mahnaz74@example.org,Ankara,Bireysel,Yoga Matı,Spor,2,297.04,594.08,Kredi Kartı,Ankara,Tamamlandı
+ORD-10136,2025-07-10,Baba Uludağ Gül Fırat,ervaniyebilge@example.org,İzmir,Bireysel,Ofis Sandalyesi,Ev & Yaşam,5,2125.91,17294.57,Kredi Kartı,İzmir,İptal
+ORD-10318,2025-02-18,Öğr. Gülinaz Irıs Fırat,nasibaalemdar@example.com,İstanbul,Bireysel,Cilt Bakım Seti,Kozmetik,1,667.11,667.11,Havale/EFT,İstanbul,Tamamlandı
+ORD-10158,2025-09-26,Melihcan Fırat,bilgeaysema@example.org,Kayseri,Bireysel,Masaüstü Bilgisayar,Elektronik,üç,20046.37,60139.11,Dijital Cüzdan,Kayseri,Tamamlandı
+ORD-10226,2025-10-18,Dilcan Nevgin Yılmaz Manço,yertan90@example.org,Mersin,Bireysel,Roman Seti (5 Kitap),Kitap & Kırtasiye,3,371.58,1114.74,Dijital Cüzdan,Mersin,Tamamlandı
+ORD-10015,2025-01-02,Arş. Gör. Yekbun Ülker Ergül,idik77@example.org,Samsun,Kurumsal,Parfüm,Kozmetik,2,1101.69,2203.38,Kredi Kartı,Samsun,Tamamlandı
+ORD-10182,2025-07-24,Av. Altınkaya Yaltırak Şama,corlufatih@example.org,Samsun,Kurumsal,Mutfak Robotu,Ev & Yaşam,-3,2901.07,8703.21,Dijital Cüzdan,Samsun,Tamamlandı
+ORD-10204,2025-03-23,Gülinaz Nafile Akçay Bilge,akaradeniz@example.com,Adana,Kurumsal,Koşu Ayakkabısı,Spor,iki,1249.57 TL,2499.14,Dijital Cüzdan,Adana,Tamamlandı
+ORD-10313,2025-02-17,Kadınana Ağbegim Duran,iakca@example.org,Samsun,Kurumsal,Masaüstü Bilgisayar,Elektronik,1,19594.01,19594.01,Dijital Cüzdan,Samsun,Tamamlandı
+ORD-10500,2025-01-04,Arş. Gör. Binışık Akçay,jsezgin@example.com,Konya,Bireysel,Roman Seti (5 Kitap),Kitap & Kırtasiye,4,364.67,1458.68,Havale/EFT,Konya,Tamamlandı
+ORD-10468,2025-11-07,Bulunç Demirok Akgündüz,gulgazel@example.net,Ankara,Kurumsal,Güneş Gözlüğü,Aksesuar,4,450.35,1801.4,Kredi Kartı,Ankara,Tamamlandı
+ORD-10345,2025-07-21,Permun Hezniye Durmuş Tarhan,kaverdemir@example.com,Samsun,Kurumsal,Roman Seti (5 Kitap),KITAP & KIRTASIYE,4,357.9,1431.6,Kredi Kartı,Samsun,Tamamlandı
+ORD-10143,2025-12-05,Abid Ekber Ergül Çetin,filitaksu@example.net,Konya,Kurumsal,Akıllı Telefon,Elektronik,4,24472.64,97890.56,Havale/EFT,Konya,Tamamlandı
+ORD-10419,2025-01-11,Öğr. Ummahani Havali Kısakürek Bilgin,zenginkayagun@example.com,İstanbul,Bireysel,Sırt Çantası,Aksesuar,4,575.87,2303.48,Kapıda Ödeme,İstanbul,Tamamlandı
+ORD-10016,2025-11-24,Şide Duran,sadetiakdeniz@example.net,Kayseri,Bireysel,Kahve Makinesi,Ev & Yaşam,3,1989.23,5967.69,Kredi Kartı,Kayseri,Tamamlandı
+ORD-10164,2025-10-04,Zöhrehan Çorlu,sargin60@example.com,Samsun,Bireysel,Roman Seti (5 Kitap),Kitap & Kırtasiye,5,347.33,1736.65,Dijital Cüzdan,Samsun,Tamamlandı
+ORD-10206,2025-05-25,Öğr. Kasim İnönü,edurmus@example.net,Gaziantep,Kurumsal,Çocuk Oyuncak Seti,,5,369.67 TL,1848.35,Kredi Kartı,Gaziantep,İptal
+ORD-10370,2025-02-25,Gülter Akgündüz Yorulmaz,recepalierdogan@example.com,Samsun,Bireysel,Akıllı Saat,Elektronik,4,1432.08,5728.32,Dijital Cüzdan,Samsun,İptal
+ORD-10316,2025-01-01,Serda Ayten İhsanoğlu,mancosafura@example.org,Konya,Bireysel,Kahve Makinesi,Ev & Yaşam,6,1815.11,10890.66,Kapıda Ödeme,Adana,Tamamlandı
+ORD-10214,2025-10-21,Dr. Sirap Rıfkıye Türk,kaderalemdar@example.net,Samsun,Bireysel,Koşu Ayakkabısı,Spor,1,1235.26,1235.26,Dijital Cüzdan,Samsun,Tamamlandı
+ORD-10228,2025-01-08,Öğr. Satıa Bilgin Kısakürek,icetin@example.com,Samsun,Kurumsal,Çocuk Oyuncak Seti,Anne & Bebek,5,424.3,2121.5,Havale/EFT,Samsun,İptal
+ORD-10421,2025-08-03,Piran Fırat,koruturksevsevil@example.org,Ankara,Bireysel,Çocuk Oyuncak Seti,ANNE & BEBEK,1,433.35,433.35,Dijital Cüzdan,Ankara,Tamamlandı
+ORD-10126,2025-03-06,Erdibay Tiğin Akçay,maksude14@example.net,Mersin,Bireysel,Laptop Standı,Elektronik,5,301.26,1506.3,Havale/EFT,Mersin,Tamamlandı
+ORD-10168,2025-03-12,Doç. İklim Yıldırım Yılmaz,samahabibe@example.org,Antalya,Bireysel,Cilt Bakım Seti,Kozmetik,3,727.85,2183.55,Kredi Kartı,Antalya,Tamamlandı
+ORD-10054,2025-03-04,Arş. Gör. Elgin Sezer Şensoy,beraysakarya@example.com,Gaziantep,Bireysel,Güneş Gözlüğü,Aksesuar,6,462.86,2777.16,Kapıda Ödeme,Gaziantep,İptal
+ORD-10390,2025-12-23,Arcan Akçay,aysuna99@example.com,Eskişehir,Bireysel,Erkek Ceket,Giyim,2,950.5,1901.0,Dijital Cüzdan,Eskişehir,Tamamlandı
+ORD-10239,2025-06-26,Macide Durmuş Güçlü,tahirdemir@example.org,Samsun,Bireysel,Bebek Arabası,Anne & Bebek,1,4565.05,4565.05,Kredi Kartı,Samsun,Tamamlandı
+ORD-10473,2025-10-18,Jankat Akgündüz,beyzadedurmus@example.com,İstanbul,Kurumsal,Bebek Arabası,Anne & Bebek,1,4024.15,4024.15,Kredi Kartı,İstanbul,Tamamlandı
+ORD-10019,20/12/2025,Bilay Zorlu,zenginkitan@example.com,Bursa,Kurumsal,Mutfak Robotu,Ev & Yaşam,6,2729.44,16376.64,Dijital Cüzdan,Bursa,Tamamlandı
+ORD-10499,2025-11-03,Çev. Damlanur Yıldırım Yaman,sakar@example.org,Kayseri,Kurumsal,Kadın Elbise,Giyim,2,675.82,1351.64,Kredi Kartı,Kayseri,Tamamlandı
+ORD-10156,2025-01-22,Miray Begim Demirel,dsoylu@example.com,Gaziantep,Bireysel,Roman Seti (5 Kitap),Kitap & Kırtasiye,5,373.17,1865.85,Havale/EFT,Gaziantep,Tamamlandı
+ORD-10271,2025-02-10,Çev. Alkor Çetin,tevetogluaygonenc@example.com,Kayseri,Kurumsal,Akıllı Saat,Elektronik,1,1431.76,1431.76,Kredi Kartı,Kayseri,Tamamlandı
+ORD-10462,2025-07-11,Av. Teybet Arsoy Çamurcuoğlu,unsever81@example.org,Kayseri,Kurumsal,Cilt Bakım Seti,Kozmetik,1,690.69,690.69,Havale/EFT,Kayseri,Tamamlandı
+ORD-10013,2025-08-05,Baltaş Türk,cavit29@example.net,Mersin,Bireysel,Mutfak Robotu,Ev & Yaşam,4,2700.82,10803.28,Dijital Cüzdan,Mersin,İade
+ORD-10066,2025-12-25,Dilcan Tercan Yüksel Bilgin,colpanarsoy@example.org,Antalya,Kurumsal,Yoga Matı,Spor,5,286.01,1430.05,Kredi Kartı,Antalya,Tamamlandı
+ORD-10295,2025-01-03,Tunguç Mutluhan Akar Eraslan,lsezer@example.org, Samsun  ,Bireysel,Koşu Ayakkabısı,Spor,3,1313.08,3939.24,Kredi Kartı,Samsun,Tamamlandı
+ORD-10180,2025-04-13,Sıla Akar,gunduzalpsakarya@example.org,İstanbul,Kurumsal,Çocuk Oyuncak Seti,Anne & Bebek,5,401.65,2008.25,Dijital Cüzdan,İstanbul,Tamamlandı
+ORD-10470,2025-11-28,Çavuldur Filit Sezgin Seven,yukselledun@example.org,Adana,Bireysel,Bebek Arabası,Anne & Bebek,5,3898.75,19493.75,Kredi Kartı,Mersin,Tamamlandı
+ORD-10294,2025-04-05,Koçak Sakarya,sensoyferinaz@example.net,İzmir,Kurumsal,Mutfak Robotu,Ev & Yaşam,-1,2775.82,2775.82,Havale/EFT,İzmir,Tamamlandı
+ORD-10310,2025-01-31,Öğr. Rıfkıye Örfiye İnönü Akçay,eraslanucan@example.org,Antalya,Bireysel,Kahve Makinesi,Ev & Yaşam,2,1756.28,3512.56,Kapıda Ödeme,Antalya,Tamamlandı
+ORD-10280,2025-02-24,Alabezek Hasgül Erdoğan,menguc48@example.com,İzmir,Kurumsal,Kablosuz Kulaklık,Elektronik,4,821.48,3285.92,Dijital Cüzdan,İzmir,Tamamlandı
+ORD-10264,2025-05-04,Muarra Tüzenur Bilgin,alemdarkibar@example.org,Bursa,Kurumsal,Masaüstü Bilgisayar,Elektronik,3,19591.26,58773.78,Kredi Kartı,Bursa,Tamamlandı
+ORD-10051,2025-04-26,Musafet Tartış Bilgin Çorlu,cokan42@example.net,Bursa,Bireysel,Kablosuz Kulaklık,Elektronik,1,806.62,806.62,Dijital Cüzdan,Bursa,Tamamlandı
+ORD-10322,2025-03-19,Sevginur Bilgin,dumanligozem@example.org,Konya,Kurumsal,Koşu Ayakkabısı,Spor,1,1349.15,1349.15,Havale/EFT,Konya,Tamamlandı
+ORD-10315,25/06/2025,Vahittin Günden Sakarya Çorlu,ksama_at_example.org,Eskişehir,Bireysel,Akıllı Saat,,1,1486.59,1486.59,Dijital Cüzdan,İzmir,Tamamlandı
+ORD-10330,2025-05-03,Elifnur Münezzer Manço Bilge,onursu81@example.com,İstanbul,Bireysel,Laptop Standı,Elektronik,4,295.42,1181.68,Kredi Kartı,İstanbul,Tamamlandı
+ORD-10104,14/08/2025,Özokçu Erdoğan,vahittineraslan@example.org,Ankara,Kurumsal,Kablosuz Kulaklık,Elektronik,6,789.51,6545.21,Havale/EFT,Antalya,Tamamlandı
+ORD-10418,2025-07-12,Amre Cevale Aksu,zorluaran@example.com,eskişehir,Kurumsal,Bebek Arabası,Anne & Bebek,5,3820.81,19104.05,Kredi Kartı,Eskişehir,Tamamlandı
+ORD-10092,2025-05-23,Durmuşali Özdoğdu Ülker,kiramettin38@example.net,İzmir,Kurumsal,Cilt Bakım Seti,KOZMETIK,bir,715.68,715.68,Dijital Cüzdan,İzmir,Tamamlandı
+ORD-10067,2025-06-09,Naz Canseven Şensoy,ergulerksoy@example.com,Ankara,Bireysel,Çocuk Oyuncak Seti,Anne & Bebek,5,424.54,2122.7,Dijital Cüzdan,Ankara,Tamamlandı
+ORD-10023,2025-02-19,Çelikkan İhsanoğlu,ayvasaksu@example.com,Eskişehir,Kurumsal,Masaüstü Bilgisayar,Elektronik,4,18171.08,72684.32,Kredi Kartı,Eskişehir,İade
+ORD-10035,2025-03-01,Züfer Şafak,ksakarya@example.org,Ankara,Bireysel,Kadın Elbise,Giyim,3,765.72,2297.16,Kapıda Ödeme,Ankara,Tamamlandı
+ORD-10268,2025-04-28,Dr. Müslum Soyselçuk Manço,inonuovun@example.net,Bursa,Kurumsal,Kadın Elbise,Giyim,1,813.62,813.62,Kapıda Ödeme,Bursa,Tamamlandı
+ORD-10050,2025-04-20,Akalan Bilir,akboga11@example.com,Kayseri,Kurumsal,Yoga Matı,Spor,6,256.75,1540.5,Kapıda Ödeme,Bursa,Tamamlandı
+ORD-10459,2025-12-06,Taşar Arcan Arslan Eraslan,ergulhidir@example.net,Adana,Kurumsal,Masaüstü Bilgisayar,Elektronik,3,17458.25,52374.75,Dijital Cüzdan,Adana,Tamamlandı
+ORD-10283,2025-07-21,Güçlüer Soylu,sensoysaricabay@example.com,Adana,Bireysel,Ofis Sandalyesi,Ev & Yaşam,iki,2138.74,4277.48,Havale/EFT,Adana,Tamamlandı
+ORD-10210,2025-03-12,Hurican İmrihan Şensoy,nkisakurek@example.net,Samsun,Kurumsal,Cilt Bakım Seti,Kozmetik,5,713.81,3569.05,Havale/EFT,Samsun,Tamamlandı
+ORD-10304,2025-09-11,Uz. Bektaşi Yıldırım,bilginfenni@example.org,Kayseri,Bireysel,Ofis Sandalyesi,Ev & Yaşam,1,2002.51,2002.51,Kapıda Ödeme,Kayseri,Tamamlandı
+ORD-10441,2025-03-03,Doç. Şehza Ildız Öcalan Şener,azadealemdar@example.com,Konya,Bireysel,Güneş Gözlüğü,Aksesuar,2,479.94,959.88,Kredi Kartı,Konya,Tamamlandı
+ORD-10332,2025-05-13,Uz. Vedat Bilgin,seydoeraslan@example.org,İzmir,Kurumsal,Kahve Makinesi,Ev & Yaşam,6,1996.26,11977.56,Kapıda Ödeme,İzmir,Tamamlandı
+ORD-10255,2025-06-14,Erinçer Çerçi Akçay Yılmaz,psoylu@example.org,Antalya,Kurumsal,Güneş Gözlüğü,Aksesuar,5,473.68,2368.4,Kapıda Ödeme,Antalya,Tamamlandı
+ORD-10269,2025-01-17,Öğr. Demiriz Hakikat Gül,uluman55@example.com,İzmir,Kurumsal,Kablosuz Kulaklık,Elektronik,2,864.8,1729.6,Dijital Cüzdan,İzmir,Tamamlandı
+ORD-10309,2025-05-29,İmren Soylu,hkaradeniz@example.com,Mersin,Kurumsal,Parfüm,Kozmetik,6,1169.34,7016.04,Havale/EFT,Mersin,Tamamlandı
+ORD-10199,2025-01-15,Prof. Aygönenç Aydar Yıldırım Duran,ycorlu@example.net,Ankara,Bireysel,Ofis Sandalyesi,Ev & Yaşam,3,2163.47,6490.41,Dijital Cüzdan,Ankara,Tamamlandı
+ORD-10276,2025-08-18,Prof. Dayar Ezgütekin Gülen,ekisakurek@example.org, Kayseri  ,Kurumsal,Bluetooth Hoparlör,Elektronik,1,587.47,587.47,Kredi Kartı,Kayseri,Tamamlandı
+ORD-10033,2025-03-09,Okt. Goncafer Aşhan Bilge Aslan,demirelide@example.org,,Bireysel,Erkek Ceket,Giyim,3,947.43,2842.29,Dijital Cüzdan,Adana,Tamamlandı
+ORD-10449,2025-10-01,Arş. Gör. Cüneyit Vahittin Sezgin,akalansezer@example.net, Antalya  ,Kurumsal,Kablosuz Kulaklık,Elektronik,5,783.1,3915.5,Dijital Cüzdan,Eskişehir,Tamamlandı
+ORD-10482,2025-07-23,Seha Almus Kısakürek Duran,izgu40@example.net,Adana,Bireysel,Erkek Ceket,Giyim,5,1026.46,5132.3,Havale/EFT,Adana,Tamamlandı
+ORD-10187,2025-11-27,Zennun Tarhan,iaksu@example.org,Adana,Kurumsal,Mutfak Robotu,Ev & Yaşam,5,2402.16,12010.8,Havale/EFT,Adana,İade
+ORD-10448,2025-06-15,Göknur Akçay,vulker@example.org,Samsun,Bireysel,Masaüstü Bilgisayar,Elektronik,5,18427.37,92136.85,Dijital Cüzdan,Samsun,İptal
+ORD-10095,2025-01-01,Öğr. Tezcan Cantez Akdeniz,nefaret70@example.org,Eskişehir,Kurumsal,Sırt Çantası,Aksesuar,1,553.13,553.13,Kapıda Ödeme,Eskişehir,Tamamlandı
+ORD-10195,2025-08-19,Salkın Aksu,seyfullah84@example.com,Gaziantep,Kurumsal,Kahve Makinesi,Ev & Yaşam,5,1942.84,9714.2,Havale/EFT,Gaziantep,Tamamlandı
+ORD-10260,2025-09-08,Öğr. Alpcan Çamurcuoğlu,kelamiaksu@example.org, İzmir  ,Bireysel,Parfüm,Kozmetik,1,1174.6,1174.6,Kredi Kartı,İzmir,Tamamlandı
+ORD-10001,2025-11-24,Arş. Gör. Ruhsat Yılmaz,dirican90@example.com,Ankara,Bireysel,Kadın Elbise,Giyim,2,708.48,1416.96,Kredi Kartı,Ankara,İptal
+ORD-10233,2025-03-10,Yrd. Doç. Güldam Korutürk Bilir,kanpulat50@example.org,GAZIANTEP,Bireysel,Güneş Gözlüğü,Aksesuar,6,504.97,3029.82,Kapıda Ödeme,Gaziantep,Tamamlandı
+ORD-10188,2025-07-10,Uzsoy Dumanlı,refik42@example.net,Gaziantep,Bireysel,Ofis Sandalyesi,Ev & Yaşam,iki,2112.37,4224.74,Dijital Cüzdan,Gaziantep,Tamamlandı
+ORD-10311,2025-12-13,Musaffa Sakarya,aihsanoglu@example.com, Konya  ,Kurumsal,Kahve Makinesi,Ev & Yaşam,5,1940.05,9700.25,Dijital Cüzdan,Konya,Tamamlandı
+ORD-10486,2025-07-12,Müret Söyler Şama,kaksu@example.org,Eskişehir,Kurumsal,Masaüstü Bilgisayar,Elektronik,5,19067.35,95336.75,Kredi Kartı,Eskişehir,Tamamlandı
+ORD-10152,2025-04-12,Prof. Naide Kısakürek Hayrioğlu,eyyup19@example.net,İzmir,Bireysel,Laptop Standı,Elektronik,2,348.88,697.76,Dijital Cüzdan,İzmir,Tamamlandı
+ORD-10231,2025-10-21,Tümer Ismık Durmuş Sezgin,verde90@example.com,İstanbul,Kurumsal,Masaüstü Bilgisayar,Elektronik,6,17524.32,105145.92,Kredi Kartı,İstanbul,Tamamlandı
+ORD-10346,27/10/2025,İlper Bilgin,sahat99@example.com,Ankara,Bireysel,Bluetooth Hoparlör,Elektronik,2,633.54,1267.08,Kapıda Ödeme,Ankara,Tamamlandı
+ORD-10272,2025-11-01,Karcan Durmuş,akgunduzduracan@example.org,Konya,Kurumsal,Kablosuz Kulaklık,Elektronik,6,811.47,4868.82,Dijital Cüzdan,Konya,Tamamlandı
+ORD-10463,2025-02-19,Okbay Özsözlü Akçay,hanedancamurcuoglu@example.com,İzmir,Bireysel,Laptop Standı,Elektronik,2,330.9,661.8,Havale/EFT,İzmir,Tamamlandı
+ORD-10083,2025-06-05,Tanses Eraslan Türk,sensoyilmafer@example.net,,Bireysel,Bluetooth Hoparlör,Elektronik,5,673.85 TL,3369.25,Havale/EFT,Ankara,Tamamlandı
+ORD-10284,2025-08-25,Şehamet Güçal Türk Aksu,zyilmaz@example.net,Samsun,Bireysel,Güneş Gözlüğü,AKSESUAR,3,490.48,1471.44,Kredi Kartı,Samsun,Tamamlandı
+ORD-10141,2025-01-16,Sejda Gülhisar Tevetoğlu Ertaş,ralemdar@example.net,Ankara,Bireysel,Mutfak Robotu,Ev & Yaşam,4,2625.43,10501.72,Havale/EFT,Ankara,Tamamlandı
+ORD-10240,2025-05-27,Prof. Dilder Tevetoğlu,hguclu@example.org,Konya,Bireysel,Kahve Makinesi,Ev & Yaşam,6,2070.81,12424.86,Dijital Cüzdan,Konya,İptal
+ORD-10380,2025-05-18,Çev. Ünsever Seven Şama,edemirel@example.org,Mersin,Bireysel,Kahve Makinesi,Ev & Yaşam,6,1953.3,11719.8,Kredi Kartı,Mersin,Tamamlandı
+ORD-10179,2025-12-17,Bayan Özge Tanyu İnönü Türk,semrin82@example.org, Gaziantep  ,Kurumsal,Yoga Matı,Spor,2,255.53,511.06,Dijital Cüzdan,Bursa,Tamamlandı
+ORD-10252,2025-04-08,Oguş Bilir,firaterdibay@example.org,İstanbul,Kurumsal,Mutfak Robotu,Ev & Yaşam,6,2705.63,16233.78,Kredi Kartı,İstanbul,Tamamlandı
+ORD-10443,2025-01-25,Çokan Çorlu,perinurakcay@example.com,Kayseri,Kurumsal,Ofis Sandalyesi,Ev & Yaşam,4,2278.24 TL,9112.96,Havale/EFT,Kayseri,Tamamlandı
+ORD-10291,2025-04-16,Soyselçuk Erdoğan,jgulen@example.net,Kayseri,Kurumsal,Masaüstü Bilgisayar,Elektronik,4,17011.21,68044.84,Dijital Cüzdan,Kayseri,Tamamlandı
+ORD-10098,2025-03-02,Ruhide Yaman,pembesinakcay@example.org,Eskişehir,Bireysel,Cilt Bakım Seti,Kozmetik,-6,690.03,4140.18,Kapıda Ödeme,Eskişehir,Tamamlandı
+ORD-10251,2025-05-05,Şide Sezer,laika94@example.com,Antalya,Bireysel,Roman Seti (5 Kitap),Kitap & Kırtasiye,6,343.43,2060.58,Dijital Cüzdan,Antalya,Tamamlandı
+ORD-10278,2025-07-14,Tenvir Bilir,hancerpekkan_at_example.org,İzmir,Bireysel,Kadın Elbise,Giyim,3,715.26,2145.78,Havale/EFT,Konya,Tamamlandı
+ORD-10151,2025-09-19,Doç. Emiş Gülmisal Güçlü,yilmazgulluhan@example.org,Bursa,Kurumsal,Masaüstü Bilgisayar,Elektronik,6,20195.43,121172.58,Havale/EFT,Bursa,Tamamlandı
+ORD-10287,04.07.2025,Prof. Göli Gökperi Durdu,annakbilgin@example.net,SAMSUN,Bireysel,Bluetooth Hoparlör,Elektronik,iki,660.17,1320.34,Kapıda Ödeme,Samsun,Tamamlandı
+ORD-10393,2025-01-15,Pembesin Varlık Tarhan,nurtac43@example.com,İzmir,Bireysel,Koşu Ayakkabısı,Spor,1,1187.37,1187.37,Dijital Cüzdan,Adana,Tamamlandı
+ORD-10249,2025-09-26,Tekiner Çamurcuoğlu,akdeniztenvir@example.net,Adana,Kurumsal,Sırt Çantası,Aksesuar,2,566.39,1132.78,Havale/EFT,Adana,Tamamlandı
+ORD-10021,2025-12-29,Av. Alkor Gülağa Yaman,cakirca77@example.net,Eskişehir,Bireysel,Erkek Ceket,Giyim,1,1070.27,1070.27,Kapıda Ödeme,Bursa,Tamamlandı
+ORD-10404,2025-08-03,Çavuldur Alemdar,semsinisa47@example.net,Konya,Kurumsal,Akıllı Saat,ELEKTRONIK,5,1510.34,7551.7,Havale/EFT,Konya,Tamamlandı
+ORD-10069,2025-01-22,Okt. Razı Bilir,ecetin@example.com,Adana,Kurumsal,Masaüstü Bilgisayar,Elektronik,1,18522.05,18522.05,Kapıda Ödeme,Konya,Tamamlandı
+ORD-10184,2025-02-10,Pesent Günar Tevetoğlu Bilge,eertas@example.com,Adana,Kurumsal,Çocuk Oyuncak Seti,Anne & Bebek,4,418.41,1673.64,Dijital Cüzdan,Adana,Tamamlandı
+ORD-10488,2025-03-13,Tayaydın İhsanoğlu,ozdessener@example.com,Gaziantep,Bireysel,Erkek Ceket,Giyim,1,992.88,992.88,Kapıda Ödeme,Gaziantep,Tamamlandı
+ORD-10011,2025-10-15,Rabbiye Gürcüye Tarhan,goncaferergul@example.net,Kayseri,Kurumsal,Ofis Sandalyesi,Ev & Yaşam,4,2267.09,9068.36,Dijital Cüzdan,Kayseri,İade
+ORD-10405,2025-12-18,Av. Feyzin Ferahdiba Arslan,sakaryasafinaz@example.com,Kayseri,Kurumsal,Masaüstü Bilgisayar,Elektronik,5,17760.72,88803.6,Havale/EFT,Kayseri,İptal
+ORD-10464,2025-02-23,Hansultan Güçlü Arslan,kzengin@example.com,Bursa,Kurumsal,Laptop Standı,Elektronik,6,331.91,1991.46,Kredi Kartı,Bursa,Tamamlandı
+ORD-10178,2025-11-18,Yrd. Doç. Akyıldız Sırriye Şafak,akverturk@example.org, Ankara  ,Kurumsal,Kahve Makinesi,Ev & Yaşam,1,1834.17,1834.17,Kapıda Ödeme,Ankara,Tamamlandı
+ORD-10286,2025-07-13,Okt. Mefharet Arsoy Akçay,demirgunver@example.com,Ankara,Kurumsal,Akıllı Telefon,Elektronik,dört,25309.58,101238.32,Dijital Cüzdan,Ankara,Tamamlandı
+ORD-10163,2025-06-24,Önsal Şükri Yılmaz,gyildirim@example.org,Gaziantep,Bireysel,Erkek Ceket,Giyim,2,921.68,1843.36,Kapıda Ödeme,Gaziantep,Tamamlandı
+ORD-10434,2025-08-29,Güverçin Bilay Tevetoğlu Zengin,kubran19@example.com,Gaziantep,Bireysel,Laptop Standı,Elektronik,4,308.52,1234.08,Kapıda Ödeme,Gaziantep,Tamamlandı
+ORD-10250,2025-04-26,Vacibe Karadeniz Kısakürek,pbilge@example.org,Antalya,Bireysel,Güneş Gözlüğü,Aksesuar,1,465.74,465.74,Dijital Cüzdan,Antalya,Tamamlandı
+ORD-10439,2025-08-20,Doç. Sevsevil Gürten İhsanoğlu,akcaynurseda_at_example.org,Ankara,Bireysel,Erkek Ceket,Giyim,1,958.59,958.59,Kapıda Ödeme,Ankara,Tamamlandı
+ORD-10055,2025-11-10,Bayan Nihan Elgin Akçay Manço,ertasersel@example.net,Samsun,Kurumsal,Bebek Arabası,Anne & Bebek,4,4533.65,23738.92,Dijital Cüzdan,Samsun,Tamamlandı
+ORD-10275,2025-02-24,Akçabay Fırat,akcaytoker@example.net,Ankara,Bireysel,Çocuk Oyuncak Seti,ANNE & BEBEK,dört,398.51,1594.04,Kapıda Ödeme,Ankara,Tamamlandı
+ORD-10079,2025-09-26,Öğr. Günver Nili Şener,akoz50@example.net,Mersin,Kurumsal,Bluetooth Hoparlör,Elektronik,2,613.92,1227.84,Kapıda Ödeme,Mersin,Tamamlandı
+ORD-10491,2025-11-19,Ismık Efser Arsoy,zemzemsafak_at_example.net,Kayseri,Bireysel,Ofis Sandalyesi,Ev & Yaşam,2,1913.48,3826.96,Kapıda Ödeme,Kayseri,Tamamlandı
+ORD-10183,2025-09-23,Tutkucan Acarkan Türk Yıldırım,safinaz16@example.com,Antalya,Bireysel,Sırt Çantası,Aksesuar,1,581.81,703.09,Havale/EFT,Antalya,Tamamlandı
+ORD-10336,02/04/2025,Ömriye Akça,tulunfirat@example.net,İstanbul,Kurumsal,Erkek Ceket,Giyim,3,940.16,2820.48,,İstanbul,Tamamlandı
+ORD-10031,2025-06-10,Dr. Zevlüde Benek Zorlu Arslan,sakaryaunubol@example.org,Bursa,Kurumsal,Mutfak Robotu,Ev & Yaşam,2,2741.0,5482.0,Kapıda Ödeme,Bursa,İptal
+ORD-10483,2025-10-17,Jankat Güçlü,ugur29@example.net,Eskişehir,Bireysel,Cilt Bakım Seti,Kozmetik,3,653.82,1961.46,Dijital Cüzdan,Eskişehir,Tamamlandı
+ORD-10174,2025-11-15,Doç. Asu Neyran Korutürk,deryanur46@example.org, Gaziantep  ,Bireysel,Bluetooth Hoparlör,Elektronik,4,652.38,2609.52,,Gaziantep,Tamamlandı
+ORD-10456,2025-01-03,Basım Ergül,sezginakkerman@example.com,Adana,Kurumsal,Kahve Makinesi,Ev & Yaşam,1,1759.1,1759.1,Kapıda Ödeme,Adana,Tamamlandı
+ORD-10433,2025-09-04,Bayan Feraye Perinur Seven Duran,erdibay42@example.org,Adana,Kurumsal,Kahve Makinesi,Ev & Yaşam,5,2038.2,10191.0,Kredi Kartı,İzmir,Tamamlandı
+ORD-10423,2025-12-19,Cindoruk Sezgin,tyilmaz@example.org,Gaziantep,Kurumsal,Erkek Ceket,Giyim,1,893.52,893.52,Kredi Kartı,Gaziantep,Tamamlandı
+ORD-10081,2025-02-22,Dölensoy Alexandru Alemdar,hayrioglumahsun@example.com,İstanbul,Kurumsal,Cilt Bakım Seti,Kozmetik,4,711.43,2845.72,Havale/EFT,İstanbul,Tamamlandı
+ORD-10411,2025-04-01,Cüneyit Atgun Gül,alemdarkoktas@example.com,Adana,Bireysel,Kablosuz Kulaklık,,4,811.5,3246.0,Havale/EFT,Adana,Tamamlandı
+ORD-10046,2025-10-03,Yrd. Doç. Kutgün Ferinaz İnönü,,Eskişehir,Bireysel,Masaüstü Bilgisayar,Elektronik,4,16908.9,67635.6,Kapıda Ödeme,Eskişehir,Tamamlandı
+ORD-10422,2025-05-15,Tülin Nurmelek Eraslan,celilay57@example.net,,Bireysel,Masaüstü Bilgisayar,Elektronik,6,18166.1,108996.6,Havale/EFT,Gaziantep,İptal
+ORD-10080,2025-10-01,Ünlen Bilge,zekayi45@example.org,İzmir,Kurumsal,Akıllı Saat,Elektronik,1,1465.47,2372.09,Havale/EFT,İzmir,Tamamlandı
+ORD-10387,2025-02-21,Nevgin Ayten Dumanlı,fedenhayrioglu@example.com,Antalya,Kurumsal,Sırt Çantası,Aksesuar,üç,576.2,1728.6,Dijital Cüzdan,Antalya,Tamamlandı
+ORD-10244,2025-04-07,Umuşan Yılmaz,erdoganmansurali@example.com,Samsun,Bireysel,Akıllı Saat,elektronik,6,1426.58,8559.48,Kredi Kartı,Samsun,Tamamlandı
+ORD-10298,2025-03-30,Çev. Akmaral Nurdeniz Akçay,intihap43@example.org,Eskişehir,Kurumsal,Akıllı Telefon,Elektronik,5,22832.06,114160.3,Havale/EFT,Eskişehir,Tamamlandı
+ORD-10376,2025-02-19,Öğr. Elnur Muhip Kısakürek,nurser16@example.com,İstanbul,Kurumsal,Ofis Sandalyesi,Ev & Yaşam,5,2242.74,11213.7,Havale/EFT,İstanbul,Tamamlandı
+ORD-10435,2025-04-25,Öğr. Yoruç Ertaş,kakdeniz_at_example,Kayseri,Kurumsal,Mutfak Robotu,Ev & Yaşam,2,2426.78,4853.56,Dijital Cüzdan,Kayseri,Tamamlandı
+ORD-10125,2025-03-04,Ergönül Uzbay Seven Zorlu,yukselavunc@example.net,GAZIANTEP,Bireysel,Koşu Ayakkabısı,Spor,6,1284.87,7709.22,Kredi Kartı,Adana,Tamamlandı
+ORD-10496,2025-09-30,Elifnur Mansız,arslanruknettin@example.net,Kayseri,Bireysel,Laptop Standı,Elektronik,4,330.2,1320.8,Kredi Kartı,Kayseri,Tamamlandı
+ORD-10062,2025-12-06,Hasbek İnönü,sakdeniz@example.net,İstanbul,Bireysel,Sırt Çantası,Aksesuar,2,633.29,1810.46,Havale/EFT,Konya,Tamamlandı
+ORD-10300,2025-09-07,Bayan Merim Duran Durmuş,dcamurcuoglu@example.net,Eskişehir,Bireysel,Bebek Arabası,Anne & Bebek,2,4191.3,8382.6,Havale/EFT,Eskişehir,Tamamlandı
+ORD-10142,18.10.2025,Dr. Rabbiye Demir Bilgin,masume76@example.net,Mersin,Bireysel,Akıllı Saat,Elektronik,iki,1350.65,2701.3,Kredi Kartı,Mersin,Tamamlandı
+ORD-10086,2025-12-19,Emal Fatigül Mansız,firattinal@example.org,Mersin,Kurumsal,Çocuk Oyuncak Seti,Anne & Bebek,1,387.98,387.98,Kapıda Ödeme,Mersin,Tamamlandı
+ORD-10431,2025-07-30,Uz. Tanak Olca Çamurcuoğlu,ercihantevetoglu@example.com,Gaziantep,Bireysel,Laptop Standı,Elektronik,3,329.92,989.76,Kredi Kartı,Gaziantep,Tamamlandı
+ORD-10167,2025-08-14,Köktaş Kılıçbay Demirel,ertasakoz@example.net,Gaziantep,Kurumsal,Mutfak Robotu,Ev & Yaşam,5,2664.55,13322.75,Havale/EFT,Gaziantep,Tamamlandı
+ORD-10223,2025-03-22,Nevsale Öcalan,,Konya,Kurumsal,Cilt Bakım Seti,Kozmetik,6,676.72,4060.32,Kapıda Ödeme,Konya,Tamamlandı
+ORD-10325,2025-01-28,Burcuhan Yıldırım,sakaryaemin@example.com,Bursa,Kurumsal,Mutfak Robotu,ev & yaşam,1,2512.77,2512.77,Kredi Kartı,Bursa,İade
+ORD-10121,2025-07-29,Özlü Durdu,donerihsanoglu@example.org,Ankara,Bireysel,Akıllı Saat,Elektronik,1,1393.27,2506.67,Dijital Cüzdan,Bursa,İptal
+ORD-10058,2025-07-28,Bayan Permun Adila Fırat,nafii59@example.org,Adana,Kurumsal,Sırt Çantası,Aksesuar,1,555.41,555.41,Dijital Cüzdan,Adana,Tamamlandı
+ORD-10429,2025-03-27,Bay Temirhan Binışık Hançer,orfiyesafak@example.org,Ankara,Bireysel,Akıllı Saat,Elektronik,2,1335.08,4084.71,Dijital Cüzdan,Ankara,Tamamlandı
+ORD-10342,2025-08-03,Filit Yıldırım,derdogan@example.org,Gaziantep,Bireysel,Kahve Makinesi,Ev & Yaşam,6,1806.77,10840.62,Kredi Kartı,Gaziantep,İptal
+ORD-10027,2025-01-02,Kitan Çamurcuoğlu Karadeniz,giz52@example.com,,Kurumsal,Güneş Gözlüğü,Aksesuar,3,452.92,1358.76,Dijital Cüzdan,Konya,Tamamlandı
+ORD-10185,17.08.2025,Tan Çevregül Bilgin,rezinsezgin@example.com,İstanbul,Kurumsal,Akıllı Telefon,Elektronik,4,23777.29,95109.16,Kredi Kartı,Eskişehir,Tamamlandı
+ORD-10391,2025-08-02,Mihriye Süheyda Gül Tevetoğlu,xhancer@example.org,Mersin,Bireysel,Koşu Ayakkabısı,Spor,4,1177.85,4711.4,Dijital Cüzdan,Mersin,Tamamlandı
+ORD-10153,2025-10-24,Teybet Zorlu,turkdurrusehvar@example.com,Gaziantep,Kurumsal,Roman Seti (5 Kitap),Kitap & Kırtasiye,2,370.48,740.96,Dijital Cüzdan,Gaziantep,Tamamlandı
+ORD-10458,2025-04-23,Okt. Eryıldız Sayrak Arslan,seneralize@example.com,İzmir,Bireysel,Parfüm,Kozmetik,-2,1081.5,2163.0,Dijital Cüzdan,Bursa,İptal
+ORD-10247,2025-10-22,Öğr. Rafia Balca Ergül,eraslanfami_at_example.net,Adana,Kurumsal,Erkek Ceket,giyim,3,1064.5,3193.5,Havale/EFT,Adana,Tamamlandı
+ORD-10130,2025-09-15,Uz. İlbek Demirel,safakcannur@example.com,Bursa,Bireysel,Parfüm,Kozmetik,üç,1090.77,3272.31,Kredi Kartı,Gaziantep,Tamamlandı
+ORD-10401,2025-05-25,Esna Efil Dumanlı,izgu77@example.org,Antalya,Bireysel,Cilt Bakım Seti,Kozmetik,1,696.42 TL,696.42,Kapıda Ödeme,Antalya,İptal
+ORD-10387,2025-02-21,Nevgin Ayten Dumanlı,fedenhayrioglu@example.com,Antalya,Kurumsal,Sırt Çantası,Aksesuar,üç,576.2,1728.6,Dijital Cüzdan,Antalya,Tamamlandı
+ORD-10282,2025-07-23,Okt. Serda Ülke Dumanlı Yorulmaz,inonuturkmen@example.org,Adana,Kurumsal,Cilt Bakım Seti,Kozmetik,5,760.6,3803.0,,Adana,Tamamlandı
+ORD-10022,2025-09-06,Orçin Akçay,unal88_at_example.net,Bursa,Bireysel,Ofis Sandalyesi,Ev & Yaşam,5,2088.52,10442.6,Dijital Cüzdan,Bursa,Tamamlandı
+ORD-10436,2025-09-13,Alaeddin Demirel,alaaddinguclu@example.org,Gaziantep,Kurumsal,Bluetooth Hoparlör,Elektronik,4,671.39,2685.56,Kredi Kartı,Konya,Tamamlandı
+ORD-10323,2025-07-16,Beyler Annak Akça Zorlu,baba51@example.com,Adana,Kurumsal,Roman Seti (5 Kitap),Kitap & Kırtasiye,2,356.08,712.16,Kredi Kartı,Adana,Tamamlandı
+ORD-10082,2025-09-02,Arş. Gör. Bediriye Permun Akça,nurkanakca@example.org,Ankara,Bireysel,Mutfak Robotu,Ev & Yaşam,4,2424.26,9697.04,Kredi Kartı,Ankara,Tamamlandı
+ORD-10166,2025-08-18,Nirgül Duran,vergul@example.org,Bursa,Bireysel,Çocuk Oyuncak Seti,Anne & Bebek,4,443.13,1772.52,Havale/EFT,Bursa,İade
+ORD-10426,2025-07-04,Musaffa Yeşil Soylu,eraslanhuban@example.com,Eskişehir,Kurumsal,Sırt Çantası,Aksesuar,6,544.68,3268.08,Kredi Kartı,İzmir,Tamamlandı
+ORD-10349,2025-01-26,İbrahim Aslan,yalginkisakurek@example.net,Eskişehir,Kurumsal,Kadın Elbise,Giyim,iki,679.66,1359.32,Dijital Cüzdan,Eskişehir,Tamamlandı
+ORD-10490,2025-04-18,Erdogan Şama,oguratasoylu_at_example,MERSIN,Bireysel,Sırt Çantası,aksesuar,1,559.75,559.75,Havale/EFT,Mersin,Tamamlandı
+ORD-10243,2025-06-02,Yahşikan İdiris Akar,zihnikoruturk@example.org,Gaziantep,Kurumsal,Bebek Arabası,Anne & Bebek,4,4471.62,17886.48,Havale/EFT,Gaziantep,Tamamlandı
+ORD-10107,2025-08-11,Armahan Türk,hocalan@example.net,Ankara,Bireysel,Güneş Gözlüğü,Aksesuar,2,477.85,955.7,Kredi Kartı,İstanbul,Tamamlandı
+ORD-10341,2025-01-05,Prof. Belgizar Anargül Aslan,salamisakarya@example.com,Adana,Bireysel,Mutfak Robotu,Ev & Yaşam,6,2770.42,16622.52,Kredi Kartı,Adana,İade
+ORD-10267,12.02.2025,Nazlim Erdoğan,tansev97@example.net,Gaziantep,Kurumsal,Roman Seti (5 Kitap),Kitap & Kırtasiye,5,410.8,2054.0,Kredi Kartı,Gaziantep,İptal
+ORD-10049,2025-10-08,Doç. Samurtay Ümmet Fırat,oeraslan@example.org,İstanbul,Kurumsal,Çocuk Oyuncak Seti,Anne & Bebek,2,404.25,808.5,Kapıda Ödeme,İstanbul,Tamamlandı
+ORD-10377,2025-05-31,Tangül Emine. Karadeniz Duran,cangurertas@example.net,Eskişehir,Kurumsal,Koşu Ayakkabısı,Spor,1,1131.43 TL,2151.79,Havale/EFT,Eskişehir,İade
+ORD-10236,2025-06-17,Arş. Gör. Altınçiçek Adal Arsoy,raksu@example.com,kayseri,Kurumsal,Bluetooth Hoparlör,Elektronik,6,602.29,3613.74,Dijital Cüzdan,Kayseri,Tamamlandı
+ORD-10102,2025-05-03,Algış Söyler Fırat Ertaş,wtarhan@example.org,Mersin,Kurumsal,Erkek Ceket,Giyim,4,899.64,3598.56,Dijital Cüzdan,Mersin,Tamamlandı
+ORD-10018,30/09/2025,Abdülsamed Tenvir Çamurcuoğlu,iyildirim@example.com,İzmir,Bireysel,Cilt Bakım Seti,Kozmetik,5,671.78,3358.9,Dijital Cüzdan,İzmir,İptal
+ORD-10492,2025-07-27,Öğr. Azize Bitül Yaman,qakdeniz@example.org,Mersin,Bireysel,Çocuk Oyuncak Seti,Anne & Bebek,1,386.76,386.76,Dijital Cüzdan,Mersin,Tamamlandı
+ORD-10127,2025-03-17,Öğr. Zeride Harbinaz Akdeniz,zennun93@example.com,Mersin,Bireysel,Kadın Elbise,Giyim,2,823.13,1646.26,Kapıda Ödeme,Mersin,Tamamlandı
+ORD-10227,2025-09-16,Aliabbas Eraslan,aydinc36@example.net, Gaziantep  ,Kurumsal,Koşu Ayakkabısı,Spor,1,1207.67,1207.67,Dijital Cüzdan,Gaziantep,Tamamlandı
+ORD-10395,2025-09-08,Mübetcel Algış Akçay Yorulmaz,bilginmerva@example.org,mersin,Kurumsal,Yoga Matı,Spor,4,284.87,1139.48,Kapıda Ödeme,Mersin,Tamamlandı
+ORD-10198,2025-02-17,Öğr. Seblâ Azize Demirel,burcuhankaradeniz@example.org,Kayseri,Bireysel,Ofis Sandalyesi,Ev & Yaşam,5,1954.76,9773.8,Kapıda Ödeme,Kayseri,Tamamlandı
+ORD-10495,2025-09-16,Öncel Yorulmaz Alemdar,xcorlu@example.org,Eskişehir,Kurumsal,Kahve Makinesi,Ev & Yaşam,5,1737.4,8687.0,Dijital Cüzdan,Eskişehir,Tamamlandı
+ORD-10366,2025-03-31,Semender Ülker,ckisakurek@example.com,Konya,Kurumsal,Çocuk Oyuncak Seti,Anne & Bebek,2,383.57,767.14,Kredi Kartı,Konya,İade
+ORD-10394,2025-05-21,Okt. Savni Merzuk Şensoy,kisakurekesenbay@example.org,Adana,Kurumsal,Parfüm,Kozmetik,4,1129.79,4519.16,Kredi Kartı,Adana,Tamamlandı
+ORD-10063,2025-08-21,Doç. Nurgil Mücevher Çamurcuoğlu Sezgin,sezal30@example.org,Adana,Kurumsal,Mutfak Robotu,Ev & Yaşam,3,2783.57,8350.71,Dijital Cüzdan,Adana,Tamamlandı
+ORD-10007,2025-02-10,Prof. Tahir Tarhan,yukselsancak@example.com,Bursa,Bireysel,Mutfak Robotu,Ev & Yaşam,3,2625.31,7875.93,Kapıda Ödeme,Bursa,Tamamlandı
+ORD-10196,2025-09-15,Av. Yücelen Ülker,lerze08@example.net,İstanbul,Bireysel,Parfüm,kozmetik,2,1056.91,2113.82,Havale/EFT,İstanbul,Tamamlandı
+ORD-10129,2025-08-04,Gülsiye Aslan,yekdagul@example.net, Kayseri  ,Bireysel,Laptop Standı,Elektronik,4,316.69,1266.76,Kapıda Ödeme,Kayseri,Tamamlandı
+ORD-10099,2025-08-30,Mülâyim Soylu,vmansiz@example.com,Bursa,Kurumsal,Bebek Arabası,Anne & Bebek,2,4102.21,8204.42,Havale/EFT,Bursa,Tamamlandı
+ORD-10093,2025-03-24,Günser Akçay,dayar55@example.net,Adana,Kurumsal,Cilt Bakım Seti,Kozmetik,3,743.41,2230.23,Dijital Cüzdan,Adana,Tamamlandı
+ORD-10241,2025-08-18,Tuğrulhan Güçlü,firatbidayet@example.net,Konya,Kurumsal,Laptop Standı,Elektronik,6,349.71,2098.26,Havale/EFT,Konya,Tamamlandı
+ORD-10279,2025-06-03,Adviye Erem Eraslan Akar,guclugunar@example.com,Gaziantep,Bireysel,Masaüstü Bilgisayar,Elektronik,3,20143.62,60430.86,Dijital Cüzdan,Gaziantep,Tamamlandı
+ORD-10037,2025-06-20,Gülhisar Durmuş,erdoganzinnure@example.net,İzmir,Kurumsal,Yoga Matı,Spor,6,276.74,1660.44,Dijital Cüzdan,İzmir,Tamamlandı
+ORD-10201,2025-01-31,Doç. Günaydin Hatem Yılmaz,gurelcemaksu@example.net,İzmir,Kurumsal,Sırt Çantası,Aksesuar,4,585.8,2343.2,Kapıda Ödeme,İzmir,Tamamlandı
+ORD-10398,2025-12-16,Yurtseven Nazimet Hançer Seven,yamanakinal@example.com,İSTANBUL,Kurumsal,Kahve Makinesi,Ev & Yaşam,6,1766.47,10598.82,Kredi Kartı,İstanbul,Tamamlandı
+ORD-10137,2025-08-05,Masume Mesude Yıldırım,fazul70@example.org,Samsun,Bireysel,Çocuk Oyuncak Seti,Anne & Bebek,5,394.62,1973.1,Kredi Kartı,Samsun,Tamamlandı
+ORD-10029,2025-03-22,Öğr. Maksüde Fitnat Akça,zgulen@example.com,İstanbul,Bireysel,Yoga Matı,Spor,1,285.32,285.32,Havale/EFT,İstanbul,İade
+ORD-10075,2025-12-20,Altınışın Ayvas Karadeniz İnönü,alemdarsehza@example.net,Gaziantep,Kurumsal,Güneş Gözlüğü,,1,422.56,422.56,Havale/EFT,Gaziantep,Tamamlandı
+ORD-10385,2025-02-04,Prof. Vacibe Erdoğan Soylu,cergul@example.com,Ankara,Kurumsal,Bebek Arabası,Anne & Bebek,4,4243.73,16974.92,Kapıda Ödeme,Ankara,İptal
+ORD-10042,2025-08-29,Ünsever Yahşi Şama,alisikdurdu@example.net,Bursa,Bireysel,Güneş Gözlüğü,Aksesuar,3,442.08,1326.24,Havale/EFT,Bursa,Tamamlandı
+ORD-10170,2025-04-24,Tule Akça Yorulmaz,zemzem70@example.com,Gaziantep,Kurumsal,Kablosuz Kulaklık,Elektronik,4,774.05,3096.2,Kapıda Ödeme,Gaziantep,İade
+ORD-10017,2025-02-27,Dinçsü Güçyeter Eraslan Ertaş,yonetmen34@example.com,Adana,Kurumsal,Erkek Ceket,Giyim,1,938.69,938.69,Kredi Kartı,Gaziantep,Tamamlandı
+ORD-10406,2025-04-03,Erdibay Hançer,vildanesener@example.com,Antalya,Bireysel,Cilt Bakım Seti,Kozmetik,2,754.69,1509.38,Havale/EFT,Antalya,İptal
+ORD-10357,2025-06-26,Hıfzullah Öncel Gülen Çetin,uzengin@example.net,,Kurumsal,Mutfak Robotu,Ev & Yaşam,3,2480.3,7440.9,Kapıda Ödeme,Mersin,Tamamlandı
+ORD-10238,2025-06-07,Semat Arslan Yaman,hayrunnisademir@example.com,Samsun,Bireysel,Mutfak Robotu,Ev & Yaşam,3,2817.72,8453.16,Havale/EFT,Samsun,Tamamlandı
+ORD-10191,2025-08-16,Tutkun Duran,itevetoglu@example.org,Ankara,Kurumsal,Masaüstü Bilgisayar,Elektronik,6,16890.27,101341.62,Kapıda Ödeme,Ankara,İptal
+ORD-10256,2025-09-12,Ünsever Bilgin,abdulsamed74@example.org,Gaziantep,Bireysel,Cilt Bakım Seti,Kozmetik,3,779.66,3815.88,Kapıda Ödeme,Gaziantep,Tamamlandı
+ORD-10479,2025-03-13,Sanavber Tasvir Türk Manço,gsensoy@example.org,Kayseri,Bireysel,Kadın Elbise,Giyim,6,807.95,4847.7,Kredi Kartı,Kayseri,İptal
+ORD-10403,2025-11-04,Çev. Büreyre Gülzadiye Zorlu,gulendilsat@example.org,Konya,Kurumsal,Kahve Makinesi,Ev & Yaşam,6,1710.62,10263.72,,Konya,Tamamlandı
+ORD-10160,2025-12-03,Okt. Ayçan Zülfüye Yorulmaz Sakarya,gulserenyorulmaz@example.com,Mersin,Bireysel,Roman Seti (5 Kitap),Kitap & Kırtasiye,1,381.21,381.21,Havale/EFT,Mersin,Tamamlandı
+ORD-10216,2025-09-02,Cuman Arsoy,ihsanogluramadan@example.org,Kayseri,Kurumsal,Roman Seti (5 Kitap),Kitap & Kırtasiye,2,371.97,743.94,Kapıda Ödeme,Kayseri,Tamamlandı
+ORD-10176,2025-09-26,Çev. Haliye Şahıgül Alemdar Zorlu,damlanurmanco@example.net,Adana,Bireysel,Parfüm,KOZMETIK,5,1101.61,5508.05,Kredi Kartı,Adana,Tamamlandı
+ORD-10112,2025-02-24,Gürcüye Gülfeza Yaman Ergül,akcaypekkan@example.org,Bursa,Kurumsal,Ofis Sandalyesi,Ev & Yaşam,-3,2131.42,6394.26,Kapıda Ödeme,Eskişehir,Tamamlandı
+ORD-10253,2025-10-28,Yücelen Sakarya,akcayceyhun_at_example,Samsun,Bireysel,Cilt Bakım Seti,Kozmetik,2,773.2,1546.4,Kapıda Ödeme,Samsun,İptal
+ORD-10008,2025-12-10,Alabezek Durdu Gül,gulozgeyilmaz@example.org,Antalya,Bireysel,Akıllı Telefon,Elektronik,6,23262.27,139573.62,Havale/EFT,Antalya,Tamamlandı
+ORD-10447,2025-05-29,Afife Hazine Akça Akar,taksu@example.net,Eskişehir,Kurumsal,Kahve Makinesi,Ev & Yaşam,6,1946.73,19994.82,Havale/EFT,Eskişehir,Tamamlandı
+ORD-10047,05.03.2025,Hindal Açıkel Mansız Akar,xdemirel@example.com,Samsun,Kurumsal,Parfüm,,3,1136.72,3410.16,Kapıda Ödeme,Samsun,Tamamlandı
+ORD-10120,2025-11-14,Oğulbaş Korutürk,corluelnur@example.org,Kayseri,Kurumsal,Akıllı Telefon,Elektronik,2,25635.31,51270.62,Dijital Cüzdan,Kayseri,Tamamlandı
+ORD-10005,2025-06-26,Arıkol Duran,yukselruknettin@example.com,Mersin,Kurumsal,Akıllı Saat,Elektronik,6,1438.23,8629.38,Kredi Kartı,Mersin,Tamamlandı
+ORD-10373,2025-02-23,İlklima Şahdiye Demir,cemiylesensoy@example.net,Ankara,Kurumsal,Yoga Matı,Spor,4,261.01,1044.04,Kredi Kartı,Ankara,İptal
+ORD-10225,01/04/2025,Dilcan Sonnur Korutürk,gulserefhancer@example.org,İstanbul,Kurumsal,Cilt Bakım Seti,Kozmetik,2,782.87,1565.74,Kapıda Ödeme,İstanbul,Tamamlandı
+ORD-10493,2025-07-30,Mükramin Erdibay Yılmaz Öcalan,aysuna59@example.net,mersin,Bireysel,Ofis Sandalyesi,Ev & Yaşam,2,2151.75,4303.5,Kapıda Ödeme,Mersin,Tamamlandı
+ORD-10065,2025-04-13,Doç. Aysuna Akçay Demir,xseven@example.org,İstanbul,Bireysel,Erkek Ceket,Giyim,2,984.77,1969.54,Kredi Kartı,İstanbul,Tamamlandı
+ORD-10467,2025-11-13,İlalmış Çamurcuoğlu,halenurkaradeniz@example.org,Ankara,Bireysel,Laptop Standı,Elektronik,3,347.4,1042.2,Kredi Kartı,Ankara,Tamamlandı
+ORD-10145,2025-01-29,Kavurt Erdoğan,ozlu12@example.org,İstanbul,Bireysel,Çocuk Oyuncak Seti,Anne & Bebek,2,431.92,863.84,Kapıda Ödeme,İstanbul,Tamamlandı
+ORD-10053,2025-02-24,Duyguhan Mansız Manço,ocalantandogdu@example.org,Konya,Bireysel,Yoga Matı,Spor,6,281.01,1686.06,Kredi Kartı,Konya,İptal
+ORD-10096,2025-08-15,Özdal Önsal Bilge,zocalan@example.net,İstanbul,Bireysel,Kadın Elbise,Giyim,5,694.65,3473.25,Kapıda Ödeme,İstanbul,Tamamlandı
+ORD-10012,2025-03-12,Musafet Öcalan,mujdesener@example.com,Kayseri,Kurumsal,Laptop Standı,Elektronik,1,343.11,343.11,Havale/EFT,Kayseri,Tamamlandı
+ORD-10274,2025-02-12,Heva Aslan,ledunerdogan@example.com,Antalya,Bireysel,Mutfak Robotu,Ev & Yaşam,6,2800.46,16802.76,Havale/EFT,Antalya,Tamamlandı
+ORD-10026,2025-02-17,Sernur Şama,alemdaruzbay@example.org,Bursa,Bireysel,Sırt Çantası,Aksesuar,4,587.8,2351.2,Dijital Cüzdan,Bursa,Tamamlandı
+ORD-10078,2025-10-02,Zilfa Bilir,sezgintulin@example.org,Samsun,Bireysel,Koşu Ayakkabısı,Spor,2,1309.65,2619.3,Kapıda Ödeme,Samsun,İade
+ORD-10010,2025-02-03,Evrimer Hayret Duran,yukselergul@example.net,Bursa,Kurumsal,Koşu Ayakkabısı,Spor,6,1249.81,7498.86,Dijital Cüzdan,İzmir,Tamamlandı
+ORD-10165,2025-12-21,Okt. Barsen Erdoğan,dolensoy08@example.net,Mersin,Bireysel,Güneş Gözlüğü,Aksesuar,1,451.8,451.8,Havale/EFT,Mersin,Tamamlandı
+ORD-10465,2025-02-14,Tanses Sehel Şener,abdulkadirsoylu@example.org,Ankara,Bireysel,Yoga Matı,Spor,3,283.25,849.75,Havale/EFT,Ankara,Tamamlandı
+ORD-10252,2025-04-08,Oguş Bilir,firaterdibay@example.org,İstanbul,Kurumsal,Mutfak Robotu,Ev & Yaşam,6,2705.63,16233.78,Kredi Kartı,İstanbul,Tamamlandı
+ORD-10319,2025-01-05,Av. Vedat Durmuş,yorulmazmuhip@example.com,Samsun,Kurumsal,Bluetooth Hoparlör,Elektronik,4,664.84,2659.36,Dijital Cüzdan,Konya,Tamamlandı
+ORD-10359,2025-12-03,Bayan Zemzem Durmuş Korutürk,narhanim02@example.com,Bursa,Kurumsal,Bebek Arabası,anne & bebek,6,3826.96 TL,22961.76,Havale/EFT,Bursa,İade
+ORD-10473,2025-10-18,Jankat Akgündüz,beyzadedurmus@example.com,İstanbul,Kurumsal,Bebek Arabası,Anne & Bebek,1,4024.15,4024.15,Kredi Kartı,İstanbul,Tamamlandı
+ORD-10232,2025-12-18,Seniha Arziye Çetin Duran,kanpulatihsanoglu@example.com,Kayseri,Kurumsal,Bluetooth Hoparlör,Elektronik,6,693.26,4159.56,Kapıda Ödeme,Kayseri,Tamamlandı
+ORD-10317,2025-07-10,Öğr. Müzekker Çopur Tarhan,fdurmus@example.com,Eskişehir,Bireysel,Akıllı Saat,Elektronik,4,1486.43,7875.55,Havale/EFT,Eskişehir,Tamamlandı
+ORD-10234,2025-08-30,Kahir Arsoy,ksezgin@example.org,Kayseri,Bireysel,Erkek Ceket,Giyim,6,1040.44,6242.64,Kredi Kartı,Kayseri,Tamamlandı
+ORD-10327,2025-02-07,Sümerya Çetin Demir,bilirferaye@example.org,İstanbul,Bireysel,Kablosuz Kulaklık,Elektronik,3,801.68,2405.04,Kredi Kartı,İstanbul,Tamamlandı
+ORD-10057,2025-10-04,İldem Şensoy,derkaysoylu@example.org,Ankara,Bireysel,Kahve Makinesi,Ev & Yaşam,2,1845.79,3691.58,Havale/EFT,Ankara,Tamamlandı
+ORD-10149,2025-08-24,Kerman Gülen,ecetin@example.org,Samsun,Kurumsal,Laptop Standı,Elektronik,4,342.05,1368.2,Havale/EFT,Samsun,Tamamlandı
+ORD-10070,2025-02-24,Özgün Kutun Soylu Akdeniz,bengibayulker@example.com,Konya,Kurumsal,Güneş Gözlüğü,Aksesuar,6,428.08,2568.48,Havale/EFT,Konya,İade
+ORD-10094,2025-08-21,Mahir Öcalan,emal28@example.org,Ankara,Kurumsal,Kadın Elbise,Giyim,-3,692.39,2077.17,Dijital Cüzdan,Ankara,Tamamlandı
+ORD-10036,16/05/2025,Doç. Siti Havse Gül Şensoy,hayriogluaypar@example.net,Kayseri,Kurumsal,Kadın Elbise,Giyim,1,688.84,688.84,Dijital Cüzdan,Kayseri,Tamamlandı
+ORD-10437,2025-10-09,Okt. Okbay Demirel,sittikgul@example.com,İstanbul,Bireysel,Akıllı Telefon,Elektronik,5,25584.94,127924.7,Havale/EFT,İstanbul,Tamamlandı
+ORD-10274,2025-02-12,Heva Aslan,ledunerdogan@example.com,Antalya,Bireysel,Mutfak Robotu,Ev & Yaşam,6,2800.46,16802.76,Havale/EFT,Antalya,Tamamlandı
+ORD-10212,2025-01-09,Koray Akar,fdemir@example.net,Adana,Kurumsal,Bluetooth Hoparlör,elektronik,dört,650.71,2602.84,Kredi Kartı,Adana,Tamamlandı
+ORD-10138,2025-12-03,Bayan Ceyhun Selime Akdeniz,yavuzgulen@example.org,Gaziantep,Bireysel,Bluetooth Hoparlör,Elektronik,-3,684.21,2052.63,Kapıda Ödeme,Antalya,Tamamlandı
+ORD-10415,2025-06-02,Nirgül Samahat Güçlü,ocalanaydinc@example.com,Antalya,Kurumsal,Parfüm,Kozmetik,5,1105.31,5526.55,Dijital Cüzdan,Antalya,İade
+ORD-10273,2025-07-12,Seblâ Halenur Akar,demirelnurtac@example.net,Konya,Bireysel,Ofis Sandalyesi,Ev & Yaşam,6,2049.63,12297.78,Kapıda Ödeme,Konya,Tamamlandı
+ORD-10381,2025-07-31,Doç. Kürşad Şafak,sonnur89@example.com,Mersin,Bireysel,Bebek Arabası,Anne & Bebek,1,4486.27,4486.27,Dijital Cüzdan,Mersin,Tamamlandı
+ORD-10333,2025-01-16,Güler Zubeyde Korutürk,ryuksel@example.net,Adana,Kurumsal,Kadın Elbise,Giyim,5,684.58,3422.9,Kredi Kartı,Adana,Tamamlandı
+ORD-10146,12/09/2025,Semrin Gülseren Eraslan,dolundumanli@example.org,Samsun,Kurumsal,Yoga Matı,Spor,2,273.29,546.58,Havale/EFT,Samsun,Tamamlandı
+ORD-10140,2025-06-08,Uz. Atanur Süleyla Zengin Akar,wyorulmaz@example.com,Adana,Kurumsal,Kablosuz Kulaklık,Elektronik,2,912.88,1825.76,Dijital Cüzdan,Samsun,Tamamlandı
+ORD-10351,2025-04-24,Dr. Zeride Türk Erdoğan,hsama@example.net,İzmir,Bireysel,Mutfak Robotu,Ev & Yaşam,3,2748.73,8246.19,,İzmir,Tamamlandı
+ORD-10356,2025-08-03,Prof. Ünsever Çamurcuoğlu Alemdar,ayhan16@example.com,Bursa,Bireysel,Bebek Arabası,Anne & Bebek,1,4611.1,4611.1,Kapıda Ödeme,Bursa,Tamamlandı
+ORD-10414,2025-05-08,Dr. Sonnur Silanur Ülker Ülker,rsener@example.net,Bursa,Kurumsal,Çocuk Oyuncak Seti,Anne & Bebek,2,377.42,754.84,Kapıda Ödeme,Bursa,Tamamlandı
+ORD-10314,2025-04-19,Gülözge Harbinaz Türk,zeraslan@example.net,Gaziantep,Kurumsal,Roman Seti (5 Kitap),Kitap & Kırtasiye,üç,362.83,1088.49,Havale/EFT,Gaziantep,Tamamlandı
+ORD-10466,2025-08-19,Bayan Gülsü Zöhrehan Sakarya Arsoy,togan06@example.com,Eskişehir,Kurumsal,Sırt Çantası,Aksesuar,-3,532.99,1598.97,Kredi Kartı,Eskişehir,Tamamlandı
+ORD-10410,2025-10-19,Sernur Çamurcuoğlu Şama,cetinfatigul@example.com,Gaziantep,Bireysel,Roman Seti (5 Kitap),KITAP & KIRTASIYE,6,351.03,2106.18,Kredi Kartı,Gaziantep,Tamamlandı
+ORD-10392,2025-07-11,Göknur Zengin,seydodumanli_at_example,İstanbul,Bireysel,Laptop Standı,Elektronik,3,333.41,1000.23,Dijital Cüzdan,Kayseri,İptal
+ORD-10265,17/10/2025,Çilga Gelengül Şensoy Bilgin,akcaytunguc@example.org,Bursa,Bireysel,Çocuk Oyuncak Seti,ANNE & BEBEK,6,436.9,2621.4,Kredi Kartı,Bursa,İptal
+ORD-10123,01.08.2025,Aktemür Arslan,erdoganmasume@example.com,Eskişehir,Bireysel,Cilt Bakım Seti,Kozmetik,5,706.77,3533.85,Kapıda Ödeme,Adana,Tamamlandı
+ORD-10321,2025-02-05,Taciddin Arslan,vsakarya@example.org,Kayseri,Bireysel,Akıllı Telefon,Elektronik,6,23227.3,139363.8,Kapıda Ödeme,Kayseri,Tamamlandı
+ORD-10217,2025-12-15,Zülfüye Kısakürek,seblaertas@example.org,Eskişehir,Kurumsal,Akıllı Telefon,Elektronik,dört,23367.48,93469.92,Havale/EFT,Eskişehir,Tamamlandı
+ORD-10041,2025-12-09,Cemalettin Zorlu,durdukumral_at_example.net,Samsun,Bireysel,Kadın Elbise,Giyim,2,793.11,1586.22,,Samsun,Tamamlandı
+ORD-10135,2025-07-11,Prof. Gülsevil Yazgül Duran,sahnuraysafak@example.com,İzmir,Kurumsal,Laptop Standı,,1,341.23,341.23,Kredi Kartı,İzmir,Tamamlandı
+ORD-10113,2025-01-05,Av. Gülter Seniha Manço İnönü,altinisin46@example.com,Mersin,Bireysel,Akıllı Telefon,Elektronik,6,24883.7,149302.2,Kapıda Ödeme,Mersin,Tamamlandı
+ORD-10194,2025-06-08,Günsel Kısakürek,gulserenakcay@example.com,Konya,Kurumsal,Parfüm,Kozmetik,4,1159.22,4636.88,Kredi Kartı,Adana,Tamamlandı
+ORD-10425,2025-08-22,Yamin Aksu,mgulen@example.net,Antalya,Kurumsal,Güneş Gözlüğü,Aksesuar,1,423.18,423.18,Havale/EFT,Antalya,İptal
+ORD-10200,2025-11-18,Atılgan Hami Tarhan Seven,,Kayseri,Kurumsal,Çocuk Oyuncak Seti,Anne & Bebek,4,389.08,1556.32,Dijital Cüzdan,Kayseri,Tamamlandı
+ORD-10331,2025-03-31,Meveddet Yorulmaz,gucluabiye@example.net,Ankara,Bireysel,Kahve Makinesi,Ev & Yaşam,6,1705.29,10231.74,Dijital Cüzdan,Ankara,Tamamlandı
+ORD-10378,31/08/2025,Savak Tevetoğlu,sakaryacannur@example.com,Ankara,Kurumsal,Mutfak Robotu,Ev & Yaşam,4,2644.22,17691.57,Kapıda Ödeme,Kayseri,Tamamlandı
+ORD-10367,2025-07-20,Mengüç Sezgin,sehametaksu@example.net,Mersin,Bireysel,Yoga Matı,Spor,5,269.82,1349.1,Havale/EFT,Mersin,Tamamlandı
+ORD-10084,2025-08-15,Öğr. Bünyamün Akça,mansizaltinbike@example.net,Antalya,Kurumsal,Çocuk Oyuncak Seti,Anne & Bebek,5,419.92,2099.6,Kredi Kartı,Antalya,Tamamlandı
+ORD-10128,2025-01-14,Gündüzalp Gülen,cdurdu@example.net,İzmir,Bireysel,Masaüstü Bilgisayar,elektronik,2,18828.76,54463.87,Kredi Kartı,İzmir,Tamamlandı
+ORD-10203,2025-05-17,Nazende İde Sakarya Soylu,zerafetguclu@example.net,Gaziantep,Bireysel,Kahve Makinesi,Ev & Yaşam,1,1720.13,1720.13,Dijital Cüzdan,Gaziantep,Tamamlandı
+ORD-10224,2025-02-15,Miray Şama Ülker,sefi89@example.org,Eskişehir,Bireysel,Bebek Arabası,Anne & Bebek,6,4387.42,26324.52,Kredi Kartı,Eskişehir,Tamamlandı
+ORD-10288,2025-10-16,Şahdiye Dumanlı,fkisakurek@example.org,Eskişehir,Kurumsal,Roman Seti (5 Kitap),Kitap & Kırtasiye,4,345.45,1381.8,Kredi Kartı,Eskişehir,Tamamlandı
+ORD-10452,2025-05-02,Işıkay Tümer Korutürk Çamurcuoğlu,gazel13@example.org,Kayseri,Kurumsal,Akıllı Saat,Elektronik,4,1417.39,5669.56,Kapıda Ödeme,Kayseri,Tamamlandı
+ORD-10211,2025-03-25,Şefiye İnönü,raslan@example.org,Konya,Kurumsal,Ofis Sandalyesi,Ev & Yaşam,3,2103.07,6309.21,Dijital Cüzdan,Konya,Tamamlandı
+ORD-10097,2025-03-04,Öğr. Aliseydi Gül,daslan@example.org,İstanbul,Bireysel,Yoga Matı,Spor,3,282.85,848.55,Dijital Cüzdan,Ankara,Tamamlandı
+ORD-10192,2025-12-31,Mevlüdiye Kefser Duran Akçay,tutkucanzengin@example.net,Samsun,Bireysel,Masaüstü Bilgisayar,Elektronik,5,17479.69,87398.45,Havale/EFT,Samsun,Tamamlandı
+ORD-10281,2025-06-21,Öğr. Aşhan Alemdar Duran,cemalettin02@example.com,Konya,Bireysel,Çocuk Oyuncak Seti,Anne & Bebek,3,418.46,1255.38,Havale/EFT,Konya,Tamamlandı
+ORD-10004,2025-08-05,Yrd. Doç. Ceyhun Efil Akça,buyrukhanyuksel_at_example.net,Adana,Kurumsal,Kahve Makinesi,Ev & Yaşam,2,2062.83,4125.66,Kapıda Ödeme,Konya,Tamamlandı
+ORD-10408,2025-07-10,Şazime Karadeniz,demirelgulozge@example.org,Antalya,Kurumsal,Güneş Gözlüğü,Aksesuar,1,457.29,457.29,Kredi Kartı,Antalya,Tamamlandı
+ORD-10119,2025-07-08,Akay Yılmaz Manço,sumeyye03@example.net,Eskişehir,Kurumsal,Ofis Sandalyesi,Ev & Yaşam,4,2235.42,8941.68,Kapıda Ödeme,Bursa,Tamamlandı
+ORD-10306,19/08/2025,Prof. İyiyürek Sıylıhan Öcalan,efil62@example.net,Antalya,Kurumsal,Laptop Standı,Elektronik,4,343.38,1373.52,Kredi Kartı,Antalya,Tamamlandı
+ORD-10150,2025-02-10,Öğr. Şali Demir,sernurhancer@example.com,Konya,Kurumsal,Roman Seti (5 Kitap),Kitap & Kırtasiye,2,362.48,724.96,Havale/EFT,Eskişehir,Tamamlandı
+ORD-10409,2025-03-03,Oliver Mansız,abdulcemalsakarya@example.org,Eskişehir,Kurumsal,Parfüm,Kozmetik,3,1080.88,3242.64,Havale/EFT,Bursa,Tamamlandı
+ORD-10221,2025-03-12,Çev. Solma Ülke Öcalan Yorulmaz,yukselmumtaze@example.net,Ankara,Bireysel,Erkek Ceket,Giyim,1,1023.63,1023.63,Havale/EFT,Ankara,Tamamlandı
