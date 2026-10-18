@@ -78,18 +78,4 @@ After the load, validation queries confirmed:
 - No negative quantities.
 - Total amount: 6,426,383.43 TL across 500 orders (426 completed).
 
-## Known limitations
 
-- The total amount includes cancelled and returned orders. A net revenue figure would need a filter on `order_status`.
-- `Write_Fact_Orders` does not truncate the table, so running the job twice fails on the primary key. It is a full load, not an incremental one.
-- Rows with a missing e-mail share one placeholder address, so they merge into a single customer in `dim_customer`.
-- Negative quantities are converted with an absolute value, which is an assumption.
-- `dim_date` only contains days that have orders, not a full calendar.
-- The Pentaho files contain a local database connection and an absolute CSV path that you need to change.
-
-## Next steps
-
-- Incremental loading
-- Full calendar table for `dim_date`
-- UNIQUE constraints on `dim_customer` and `dim_product`
-- Scheduling with Airflow
