@@ -4,6 +4,8 @@ End-to-end ETL pipeline: raw e-commerce orders → Pentaho Data Integration → 
 
 > **Note:** The dataset is synthetic and was generated for learning purposes. No real customer data is used.
 
+> 📄 **Full project report (Turkish):** [Verinin Yolculuğu – ETL Raporu](docs/Verinin_Yolculugu_ETL_Raporu.pdf)
+
 ## Overview
 
 Raw order data is written fast and without validation, so it is full of inconsistencies. This project cleans it with Pentaho PDI, loads it into a star schema in PostgreSQL, validates the load with SQL queries, and visualizes the result in a dashboard built with Data Plato.
